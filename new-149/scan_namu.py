@@ -65,9 +65,9 @@ def scan(target):
   title_match=re.search(r'<title[^>]*>(.*?)</title>',raw,re.I|re.S)
   ret["page_title"]=html.unescape(re.sub(r'<[^>]+>','',title_match.group(1))).strip() if title_match else ""
   imgs=[]
-  for tag in re.findall(r'<img\\b[^>]{1,4000}>',raw,re.I|re.S):
-   alt=re.search(r'\\balt=[\\x22\\x27]([^\\x22\\x27]{1,320})',tag,re.I)
-   source=re.search(r'\\bdata-original=[\\x22\\x27]([^\\x22\\x27]{1,1500})',tag,re.I)
+  for tag in re.findall(r'<img\b[^>]{1,4000}>',raw,re.I|re.S):
+   alt=re.search(r'\balt=[\x22\x27]([^\x22\x27]{1,320})',tag,re.I)
+   source=re.search(r'\bdata-original=[\x22\x27]([^\x22\x27]{1,1500})',tag,re.I)
    if not source: continue
    src=html.unescape(source.group(1))
    if src.startswith("//file.namu.moe/file/"):
