@@ -1,6 +1,6 @@
 # V4 신규 149명 — 이미지 및 검증 현황
 
-이 페이지는 **정사 등록된 신규 149명**의 초상 현황이다. **실제 GitHub 파일이 인물별로 연결된 110명, 미확보 39명**이다. 신규 폴더에는 후보 컷과 미채택 컷을 포함한 **총 122개 이미지 파일**이 저장되어 있으며, 인물별 확보 수와 파일 수는 다르다. 사진 저장·육안 검수만으로 사용 권한이나 모든 환경에서의 표시 성공이 보장되지는 않는다. **기존 239명 초상 파일은 변경하지 않았다.**
+이 페이지는 **정사 등록된 신규 149명**의 초상 현황이다. **실제 GitHub 파일이 인물별로 연결된 115명, 미확보 34명**이다. 신규 폴더에는 후보 컷과 미채택 컷을 포함한 **총 128개 이미지 파일**이 저장되어 있으며, 인물별 확보 수와 파일 수는 다르다. 사진 저장·육안 검수만으로 사용 권한이나 모든 환경에서의 표시 성공이 보장되지는 않는다. **기존 239명 초상 파일은 변경하지 않았다.**
 
 
 ## 나이트런 기사단
@@ -41,20 +41,20 @@
 | 이그네스 크라베이 (A−) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/imported/027_75496236fd.jpg" width="100" alt="이그네스 크라베이" /> | 원작 컷 · [출처](https://www.newspim.com/news/view/20170131000050) · 미저장 |
 | 로스테르 (B+) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/wiki/028_abf6e07e3e.webp" width="100" alt="로스테르" /> | 인물별 위키 대표 컷 · [출처](https://noblesse.fandom.com/wiki/Rostere) · GitHub 파일 보관 (저작권 별도 확인) |
 | 무아르 (B+) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/wiki/029_25bad75d85.webp" width="100" alt="무아르" /> | 인물별 위키 대표 컷 · [출처](https://noblesse.fandom.com/wiki/Muar) · GitHub 파일 보관 (저작권 별도 확인) |
-| 하이든 (B) | 미확보 | [네이버](https://search.naver.com/search.naver?where=image&query=%EB%85%B8%EB%B8%94%EB%A0%88%EC%8A%A4%20Noblesse%20%ED%95%98%EC%9D%B4%EB%93%A0) · [구글](https://www.google.com/search?udm=2&q=%EB%85%B8%EB%B8%94%EB%A0%88%EC%8A%A4%20Noblesse%20%ED%95%98%EC%9D%B4%EB%93%A0%20Hayden%20%EC%9B%90%EC%9E%91%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%96%BC%EA%B5%B4%20%ED%94%84%EB%A1%9C%ED%95%84) |
-| 지오 (B) | 미확보 | [네이버](https://search.naver.com/search.naver?where=image&query=%EB%85%B8%EB%B8%94%EB%A0%88%EC%8A%A4%20Noblesse%20%EC%A7%80%EC%98%A4) · [구글](https://www.google.com/search?udm=2&q=%EB%85%B8%EB%B8%94%EB%A0%88%EC%8A%A4%20Noblesse%20%EC%A7%80%EC%98%A4%20Gio%20%EC%9B%90%EC%9E%91%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%96%BC%EA%B5%B4%20%ED%94%84%EB%A1%9C%ED%95%84) |
+| 하이든 (B) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/wiki/030_629a7559d6.webp" width="100" alt="하이든" /> | 노블레스 위키 인물별 원작 컷 · [출처](https://noblesse.fandom.com/wiki/Haydn) · GitHub 파일 보관 (이용 권한 별도 확인) |
+| 지오 (B) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/wiki/031_18f205165e.webp" width="100" alt="지오" /> | 노블레스 위키 인물별 원작 컷 · [출처](https://noblesse.fandom.com/wiki/Geo) · GitHub 파일 보관 (이용 권한 별도 확인) |
 | 테이즈 (B) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/wiki/032_ffa4c32095.webp" width="100" alt="테이즈" /> | 인물별 위키 대표 컷 · [출처](https://noblesse.fandom.com/wiki/Taze) · GitHub 파일 보관 (저작권 별도 확인) |
 | 로딘 (B−) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/wiki/033_86e7e8f5ba.webp" width="100" alt="로딘" /> | 인물별 위키 대표 컷 · [출처](https://noblesse.fandom.com/wiki/Rodin) · GitHub 파일 보관 (저작권 별도 확인) |
 | 케드 (B−) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/wiki/034_1358a393fc.webp" width="100" alt="케드" /> | 인물별 위키 대표 컷 · [출처](https://noblesse.fandom.com/wiki/Ked) · GitHub 파일 보관 (저작권 별도 확인) |
-| 루타이 (C+) | 미확보 | [네이버](https://search.naver.com/search.naver?where=image&query=%EB%85%B8%EB%B8%94%EB%A0%88%EC%8A%A4%20Noblesse%20%EB%A3%A8%ED%83%80%EC%9D%B4) · [구글](https://www.google.com/search?udm=2&q=%EB%85%B8%EB%B8%94%EB%A0%88%EC%8A%A4%20Noblesse%20%EB%A3%A8%ED%83%80%EC%9D%B4%20Rutai%20%EC%9B%90%EC%9E%91%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%96%BC%EA%B5%B4%20%ED%94%84%EB%A1%9C%ED%95%84) |
+| 루타이 (C+) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/wiki/035_681ffd02ee.webp" width="100" alt="루타이" /> | 노블레스 위키 인물별 원작 컷 · [출처](https://noblesse.fandom.com/wiki/Lutai) · GitHub 파일 보관 (이용 권한 별도 확인) |
 | 유이지 (C+) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/wiki/036_bafa10555b.webp" width="100" alt="유이지" /> | 인물별 위키 대표 컷 · [출처](https://noblesse.fandom.com/wiki/Yuizi) · GitHub 파일 보관 (저작권 별도 확인) |
 | 닥터 아리스 (C+) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/wiki/037_f19ec61b5d.webp" width="100" alt="닥터 아리스" /> | 원작 위키 캐릭터 페이지 대표 컷 · [출처](https://noblesse.fandom.com/wiki/Dr._Aris) · GitHub 파일 보관
 | 유리 (C+) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/wiki/038_17ffbbcaa6.webp" width="100" alt="유리" /> | 인물별 위키 대표 컷 · [출처](https://noblesse.fandom.com/wiki/Yuri) · GitHub 파일 보관 (저작권 별도 확인) |
-| 보네르 (C) | 미확보 | [네이버](https://search.naver.com/search.naver?where=image&query=%EB%85%B8%EB%B8%94%EB%A0%88%EC%8A%A4%20Noblesse%20%EB%B3%B4%EB%84%A4%EB%A5%B4) · [구글](https://www.google.com/search?udm=2&q=%EB%85%B8%EB%B8%94%EB%A0%88%EC%8A%A4%20Noblesse%20%EB%B3%B4%EB%84%A4%EB%A5%B4%20Boner%20%EC%9B%90%EC%9E%91%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%96%BC%EA%B5%B4%20%ED%94%84%EB%A1%9C%ED%95%84) |
+| 보네르 (C) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/wiki/039_ede7fadaaf.webp" width="100" alt="보네르" /> | 노블레스 위키 인물별 원작 컷 · [출처](https://noblesse.fandom.com/wiki/Bonerre) · GitHub 파일 보관 (이용 권한 별도 확인) |
 | 제이크 (C) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/wiki/040_a31153da5e.webp" width="100" alt="제이크" /> | 인물별 위키 대표 컷 · [출처](https://noblesse.fandom.com/wiki/Jake) · GitHub 파일 보관 (저작권 별도 확인) |
 | 마리 (C) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/wiki/041_08a47ca67e.webp" width="100" alt="마리" /> | 인물별 위키 대표 컷 · [출처](https://noblesse.fandom.com/wiki/Mari) · GitHub 파일 보관 (저작권 별도 확인) |
 | 마크 (C−) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/wiki/042_d9fd6d90a9.webp" width="100" alt="마크" /> | 인물별 위키 대표 컷 · [출처](https://noblesse.fandom.com/wiki/Mark) · GitHub 파일 보관 (저작권 별도 확인) |
-| 칼빈 (C−) | 미확보 | [네이버](https://search.naver.com/search.naver?where=image&query=%EB%85%B8%EB%B8%94%EB%A0%88%EC%8A%A4%20Noblesse%20%EC%B9%BC%EB%B9%88) · [구글](https://www.google.com/search?udm=2&q=%EB%85%B8%EB%B8%94%EB%A0%88%EC%8A%A4%20Noblesse%20%EC%B9%BC%EB%B9%88%20Calvin%20%EC%9B%90%EC%9E%91%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%96%BC%EA%B5%B4%20%ED%94%84%EB%A1%9C%ED%95%84) |
+| 칼빈 (C−) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/wiki/043_f6456a01e3.webp" width="100" alt="칼빈" /> | 노블레스 위키 인물별 원작 컷 · [출처](https://noblesse.fandom.com/wiki/Kalvin) · GitHub 파일 보관 (이용 권한 별도 확인) |
 | 크랜스 (C+) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/imported/044_d954fa7803.png" width="100" alt="크랜스" /> | 기존 사진 링크 · [출처](https://static.zerochan.net/Kranz.%28Noblesse%29.full.3080778.png) · 미저장 |
 | 샤크 (C) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/imported/045_224facbbfc.png" width="100" alt="샤크" /> | 기존 사진 링크 · [출처](https://static.zerochan.net/Shark.%28Noblesse%29.full.3080781.png) · 미저장 |
 | 해머 (C−) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/imported/046_371850d749.png" width="100" alt="해머" /> | 기존 사진 링크 · [출처](https://static.zerochan.net/Hammer.%28Noblesse%29.full.3080782.png) · 미저장 |
@@ -219,3 +219,5 @@
 - **아린**: 이전 외부 URL이 만료되었고 GitHub에 원본이 저장되지 않아 미확보 유지
 
 검수용 후보 파일은 남겨 두되 **확보 인물 수에 포함하지 않는다.** 인물별 카드의 이미지는 다운로드한 실제 파일로 연결하며, 신규 인물 설정이나 전투력 등 소설 정사에는 영향을 주지 않는다.
+
+- **앤 마이어 추가 후보**: 위키 갤러리 추출본은 어린 프레이·앤이 함께 나온 그림이어서 단독 초상으로는 보류
