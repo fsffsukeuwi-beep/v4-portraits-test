@@ -1,6 +1,6 @@
-# V4 신규 119명 — 이미지 및 검증 현황
+# V4 신규 118명 — 이미지 및 검증 현황
 
-**현행 신규 명부: 119명 전원 이미지 확보.** 2026-11-22 사용자 확정에 따라 종전 신규 149명에서 이미지 미확보 30명을 명부·전투 후보에서 제외했다. 현행 전체 362명(기존 243명 + 신규 119명), 방어 162명·침공 200명. 기존 239장 초상은 보존한다. 이미지 소스 확인은 저작권·표시 성공을 보장하지 않으며, 과거 후보 수집 로그는 현재 인물 명부가 아니다.
+**현행 신규 명부: 118명 전원 이미지 확보.** 2026-11-22 최신 사용자 확정에 따라 종전 신규 149명에서 미확보 30명과 판 1명을 제외했다. 《초인의 시대》 1인 진영도 폐지한다. 현행 전체 361명(기존 243명 + 신규 118명), 방어 162명·침공 199명. 기존 239장 초상은 보존한다. 과거 후보 수집 로그는 현재 인물 명부가 아니며 사진 출처 확인만으로 저작권·표시 성공을 보장하지 않는다.
 
 
 ## 나이트런 기사단
@@ -92,11 +92,9 @@
 | 피오르드 (B−) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/wiki/076_a5c0f09fd7.webp" width="100" alt="피오르드" /> | 원작 위키 캐릭터 페이지 대표 컷 · [출처](https://eleceed.fandom.com/wiki/Fiord) · GitHub 파일 보관
 | 듀크 그레인 (C+) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/imported/077_4d84cf4198.jpg" width="100" alt="듀크 그레인" /> | 기존 사진 링크 · [출처](https://fanfics.me/images/fandoms_heroes/2268-1677982781-big.jpg) · 미저장 |
 
-## 초인의 시대 (판)
 
 | 인물 / 티어 | 미리보기 | 확인 상태 · 자료 |
 |---|---|---|
-| 판 (A+) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/imported/081_3591a8b01a.png" width="100" alt="판" /> | 원작 컷 · [출처](https://m.ruliweb.com/etcs/board/300781/read/57389301) · 미저장 |
 
 ## 전지적 독자 시점
 
