@@ -1,0 +1,74 @@
+{
+  "entries": [
+    {
+      "id": 2,
+      "name": "프레이 마이어",
+      "page": "https://knightrun.fandom.com/wiki/Pray_Mayer"
+    },
+    {
+      "id": 3,
+      "name": "앤 마이어",
+      "page": "https://knightrun.fandom.com/wiki/Anne_Mayer"
+    },
+    {
+      "id": 6,
+      "name": "마일로 레온하르트",
+      "page": "https://knightrun.fandom.com/wiki/Milo_Leonhard"
+    },
+    {
+      "id": 9,
+      "name": "다니엘 레온하르트",
+      "page": "https://knightrun.fandom.com/wiki/Daniel_Leonhard"
+    },
+    {
+      "id": 21,
+      "name": "마두크",
+      "page": "https://noblesse.fandom.com/wiki/Maduke"
+    },
+    {
+      "id": 22,
+      "name": "록티스 크라베이",
+      "page": "https://noblesse.fandom.com/wiki/Roctis_Kravei"
+    },
+    {
+      "id": 25,
+      "name": "자르가 시리아나",
+      "page": "https://noblesse.fandom.com/wiki/Zarga_Siriana"
+    },
+    {
+      "id": 37,
+      "name": "닥터 아리스",
+      "page": "https://noblesse.fandom.com/wiki/Dr._Aris"
+    },
+    {
+      "id": 47,
+      "name": "클랜 마스터",
+      "page": "https://herokiller.fandom.com/wiki/Master_of_the_Clan"
+    },
+    {
+      "id": 49,
+      "name": "세인트 라이트",
+      "page": "https://herokiller.fandom.com/wiki/Saint_Light"
+    },
+    {
+      "id": 75,
+      "name": "이너스",
+      "page": "https://eleceed.fandom.com/wiki/Inus"
+    },
+    {
+      "id": 71,
+      "name": "수프리 바스테르",
+      "page": "https://eleceed.fandom.com/wiki/Suffrey_Basseterre"
+    },
+    {
+      "id": 134,
+      "name": "브라함",
+      "page": "https://overgeared.fandom.com/wiki/Braham"
+    },
+    {
+      "id": 76,
+      "name": "피오르드",
+      "page": "https://eleceed.fandom.com/wiki/Fiord"
+    }
+  ]
+}
