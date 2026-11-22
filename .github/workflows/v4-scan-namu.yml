@@ -1,0 +1,26 @@
+name: Diagnose Korean wiki portrait sources
+on:
+  push:
+    paths:
+      - '.github/workflows/v4-scan-namu.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  inspect-public-html:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python new-149/scan_namu.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add new-149/namu_scan_report.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Record Namuwiki portrait HTML availability for remaining images"
+            git push
+          fi
