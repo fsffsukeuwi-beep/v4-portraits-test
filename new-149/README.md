@@ -1,6 +1,6 @@
 # V4 신규 149명 — 이미지 및 검증 현황
 
-이 페이지는 **정사 등록된 신규 149명**의 초상 현황이다. **실제 GitHub 파일이 인물별로 연결된 115명, 미확보 34명**이다. 신규 폴더에는 후보 컷과 미채택 컷을 포함한 **총 128개 이미지 파일**이 저장되어 있으며, 인물별 확보 수와 파일 수는 다르다. 사진 저장·육안 검수만으로 사용 권한이나 모든 환경에서의 표시 성공이 보장되지는 않는다. **기존 239명 초상 파일은 변경하지 않았다.**
+이 페이지는 **정사 등록된 신규 149명**의 초상 현황이다. **실제 GitHub 파일이 인물별로 연결된 115명, 미확보 34명**이다. 신규 폴더에는 후보 컷과 미채택 컷을 포함한 **총 133개 이미지 파일**이 저장되어 있으며, 인물별 확보 수와 파일 수는 다르다. 사진 저장·육안 검수만으로 사용 권한이나 모든 환경에서의 표시 성공이 보장되지는 않는다. **기존 239명 초상 파일은 변경하지 않았다.**
 
 
 ## 나이트런 기사단
@@ -156,7 +156,7 @@
 | 인물 / 티어 | 미리보기 | 확인 상태 · 자료 |
 |---|---|---|
 | 산군 (B+) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/imported/114_4a6f6fed4a.jpg" width="100" alt="산군" /> | 원작 컷 · [출처](https://www.kmas.or.kr/webzine/review/2892) · 미저장 |
-| 빠르 (B) | 미확보 | [네이버](https://search.naver.com/search.naver?where=image&query=%ED%98%B8%EB%9E%91%EC%9D%B4%ED%98%95%EB%8B%98%20%EB%B9%A0%EB%A5%B4%20%EC%96%BC%EA%B5%B4%20%EC%9B%90%EC%9E%91%20%EC%BA%90%EB%A6%AD%ED%84%B0) · [구글](https://www.google.com/search?udm=2&q=%ED%98%B8%EB%9E%91%EC%9D%B4%ED%98%95%EB%8B%98%20%EB%B9%A0%EB%A5%B4%20%EC%9B%B9%ED%88%B0%20%EC%9B%90%EC%9E%91%20%EC%96%BC%EA%B5%B4%20%EB%8B%A8%EB%8F%85%20%EC%BA%90%EB%A6%AD%ED%84%B0) |
+| 빠르 (B) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/rescue/115_52942bb513.jpg" width="100" alt="빠르" /> | 원작 컷 (외부 재게시, 권리 미확인) · [출처](https://www.g-enews.com/article/Distribution/2018/12/201812290753288566e8b8a793f7_1) · GitHub 파일 보관 |
 | 추이 (A−) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/rescue/116_214c4b35db.webp" width="100" alt="추이" /> | 원작 컷 (외부 재게시, 권리 미확인) · [출처](https://www.wikitree.co.kr/articles/571955) · GitHub 파일 보관 |
 | 흰눈썹 (B−) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/imported/117_1a213ca65f.png" width="100" alt="흰눈썹" /> | 원작 컷 재게시 · [출처](https://dpbdpb.tistory.com/36) · 미저장 |
 | 이령 (A+) | 미확보 | [네이버](https://search.naver.com/search.naver?where=image&query=%ED%98%B8%EB%9E%91%EC%9D%B4%ED%98%95%EB%8B%98%20%EC%9D%B4%EB%A0%B9%20%EC%96%BC%EA%B5%B4%20%EC%9B%90%EC%9E%91%20%EC%BA%90%EB%A6%AD%ED%84%B0) · [구글](https://www.google.com/search?udm=2&q=%ED%98%B8%EB%9E%91%EC%9D%B4%ED%98%95%EB%8B%98%20%EC%9D%B4%EB%A0%B9%20%EC%9B%B9%ED%88%B0%20%EC%9B%90%EC%9E%91%20%EC%96%BC%EA%B5%B4%20%EB%8B%A8%EB%8F%85%20%EC%BA%90%EB%A6%AD%ED%84%B0) |
