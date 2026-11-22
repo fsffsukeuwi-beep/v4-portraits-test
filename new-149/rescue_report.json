@@ -1,28 +1,20 @@
 {
   "total": 2,
-  "downloaded": 2,
+  "downloaded": 0,
   "entries": [
     {
       "id": 116,
       "name": "추이",
       "source_page": "https://www.wikitree.co.kr/articles/571955",
-      "status": "downloaded",
-      "path": "new-149/assets/rescue/116_214c4b35db.webp",
-      "bytes": 56780,
-      "width": 750,
-      "height": 388,
-      "url": "https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/rescue/116_214c4b35db.webp"
+      "status": "already_archived",
+      "reason": "local portrait present in README"
     },
     {
       "id": 119,
       "name": "압카",
       "source_page": "https://m.ruliweb.com/community/board/300143/read/70987990",
-      "status": "downloaded",
-      "path": "new-149/assets/rescue/119_03fadd45bc.webp",
-      "bytes": 400676,
-      "width": 516,
-      "height": 1030,
-      "url": "https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/rescue/119_03fadd45bc.webp"
+      "status": "already_archived",
+      "reason": "local portrait present in README"
     }
   ]
 }
