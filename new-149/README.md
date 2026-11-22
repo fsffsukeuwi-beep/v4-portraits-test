@@ -1,6 +1,6 @@
 # V4 신규 149명 — 이미지 및 검증 현황
 
-이 페이지는 **정사 등록된 신규 149명**의 초상 현황이다. **실제 파일 기반 인물별 이미지 확보 110명, 미확보 39명.** 초기 40명+Fandom 채택 41건(요피 1건은 기존 인물과 중복·우주선 장면과 실루엣 제외), 별도 GitHub 소스 이미지 7장 등 **총 122개 이미지 파일**을 보관 중이다. 파일 다운로드 성공은 전체 원작 공식성·외부 이미지의 저작물 출처 확인이나 브라우저 표시 성공을 자동 보장하지 않는다. 기존 239장은 보존했다.
+이 페이지는 **정사 등록된 신규 149명**의 초상 현황이다. **실제 GitHub 파일이 인물별로 연결된 110명, 미확보 39명**이다. 신규 폴더에는 후보 컷과 미채택 컷을 포함한 **총 122개 이미지 파일**이 저장되어 있으며, 인물별 확보 수와 파일 수는 다르다. 사진 저장·육안 검수만으로 사용 권한이나 모든 환경에서의 표시 성공이 보장되지는 않는다. **기존 239명 초상 파일은 변경하지 않았다.**
 
 
 ## 나이트런 기사단
@@ -206,3 +206,16 @@
 | 하트히터 (A−) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/wiki/147_836e78472f.webp" width="100" alt="하트히터" /> | 위키 인물별 대표 컷 · [출처](https://hardcorelevelingwarrior.fandom.com/wiki/Heart_Heater) · GitHub 파일 보관
 | 요피 (B+) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/wiki/148_f856f49daa.webp" width="100" alt="요피" /> | 위키 인물별 대표 컷 · [출처](https://hardcorelevelingwarrior.fandom.com/wiki/Yopi) · GitHub 파일 보관
 | 노네임 (A−) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/wiki/149_1abbd0b877.webp" width="100" alt="노네임" /> | 위키 인물별 대표 컷 · [출처](https://hardcorelevelingwarrior.fandom.com/wiki/No_Name) · GitHub 파일 보관
+
+
+## 이미지 후보 채택/보류 기록 (2026-11-22)
+
+이번 작업은 원작 인물별 페이지를 기준으로 후보 이미지를 다운로드한 다음 **그림 자체를 열어보고** 인물 중심 컷만 목록에 연결했다. 아래는 이미지 파일이 있더라도 인물별 초상으로 채택하지 않은 예시다.
+
+- **앤 마이어**: 기존 위키 자동 추출 이미지가 `Norton-classes.PNG`로 확인되어 오인식 가능성이 크므로 미확보 유지
+- **레니**: `Cross_society.PNG`는 여러 인물의 단체 장면이므로 미확보 유지
+- **카말**: `K-388.png`에는 두 인물이 함께 등장하므로 미확보 유지
+- **하야테**: `Male.png`는 실제 얼굴이 아닌 기본 실루엣이므로 미확보 유지
+- **아린**: 이전 외부 URL이 만료되었고 GitHub에 원본이 저장되지 않아 미확보 유지
+
+검수용 후보 파일은 남겨 두되 **확보 인물 수에 포함하지 않는다.** 인물별 카드의 이미지는 다운로드한 실제 파일로 연결하며, 신규 인물 설정이나 전투력 등 소설 정사에는 영향을 주지 않는다.
