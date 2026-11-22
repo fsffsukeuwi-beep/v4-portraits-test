@@ -4,7 +4,7 @@ import concurrent.futures, json, re, pathlib, urllib.parse, urllib.request, html
 root=pathlib.Path(__file__).resolve().parent
 targets=[("뮈렐","https://namu.moe/w/뮈렐"),("베히무스","https://www.namu.moe/w/베히무스"),("이령","https://namu.moe/w/이령(호랑이형님)"),("아린","https://d.namu.moe/w/아린(호랑이형님)") ]
 def fetch(x):
- name,url=x;result={"name":name,"url":url}
+ name,url=x;url=urllib.parse.quote(url,safe=":/()");result={"name":name,"url":url}
  try:
   req=urllib.request.Request(url,headers={"User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/131.0.0.0 Safari/537.36","Accept":"text/html"})
   with urllib.request.urlopen(req,timeout=15) as rsp:
