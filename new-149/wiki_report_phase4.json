@@ -1,0 +1,116 @@
+{
+  "total": 10,
+  "downloaded": 10,
+  "entries": [
+    {
+      "id": 7,
+      "name": "가로우 라타",
+      "wiki": "https://knightrun.fandom.com/wiki/Garou_Rata",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/007_60ea1de6f3.webp",
+      "image_url": "https://static.wikia.nocookie.net/knightrun/images/2/2a/Image-1419222960.jpg/revision/latest?cb=20141222043601",
+      "width": 702,
+      "height": 623,
+      "bytes": 70874
+    },
+    {
+      "id": 11,
+      "name": "레이 넬슨",
+      "wiki": "https://knightrun.fandom.com/wiki/Ray_Nelson",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/011_1ae20b7113.webp",
+      "image_url": "https://static.wikia.nocookie.net/knightrun/images/7/72/Ray_05.PNG/revision/latest?cb=20170220091106",
+      "width": 343,
+      "height": 371,
+      "bytes": 23010
+    },
+    {
+      "id": 13,
+      "name": "단",
+      "wiki": "https://knightrun.fandom.com/wiki/Dan",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/013_36fdaff04f.webp",
+      "image_url": "https://static.wikia.nocookie.net/knightrun/images/3/36/K-344.png/revision/latest?cb=20120303113526",
+      "width": 250,
+      "height": 250,
+      "bytes": 15740
+    },
+    {
+      "id": 14,
+      "name": "레오",
+      "wiki": "https://knightrun.fandom.com/wiki/Leo",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/014_8be71808e9.webp",
+      "image_url": "https://static.wikia.nocookie.net/knightrun/images/5/57/K-300.png/revision/latest?cb=20120229155549",
+      "width": 250,
+      "height": 250,
+      "bytes": 14744
+    },
+    {
+      "id": 15,
+      "name": "레니",
+      "wiki": "https://knightrun.fandom.com/wiki/Leny",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/015_9b3c99055b.webp",
+      "image_url": "https://static.wikia.nocookie.net/knightrun/images/f/fe/Cross_society.PNG/revision/latest?cb=20180104142037",
+      "width": 345,
+      "height": 479,
+      "bytes": 36294
+    },
+    {
+      "id": 16,
+      "name": "클린트 자일",
+      "wiki": "https://knightrun.fandom.com/wiki/Clint_Zail",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/016_1cefc77067.webp",
+      "image_url": "https://static.wikia.nocookie.net/knightrun/images/e/e4/Clint_01.PNG/revision/latest/scale-to-width-down/900?cb=20170219185612",
+      "width": 900,
+      "height": 370,
+      "bytes": 48436
+    },
+    {
+      "id": 17,
+      "name": "질 맥켈런",
+      "wiki": "https://knightrun.fandom.com/wiki/Jill_McKellen",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/017_e29297a487.webp",
+      "image_url": "https://static.wikia.nocookie.net/knightrun/images/1/13/K-303.png/revision/latest?cb=20120301065325",
+      "width": 250,
+      "height": 250,
+      "bytes": 17310
+    },
+    {
+      "id": 18,
+      "name": "페이저 레온하르트",
+      "wiki": "https://knightrun.fandom.com/wiki/Feizer",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/018_3bc86228e9.webp",
+      "image_url": "https://static.wikia.nocookie.net/knightrun/images/9/99/Paiger1.jpg/revision/latest?cb=20120402142159",
+      "width": 382,
+      "height": 482,
+      "bytes": 23992
+    },
+    {
+      "id": 19,
+      "name": "카마드",
+      "wiki": "https://knightrun.fandom.com/wiki/Kamad",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/019_2015033090.webp",
+      "image_url": "https://static.wikia.nocookie.net/knightrun/images/0/03/Camad.png/revision/latest?cb=20120313063730",
+      "width": 248,
+      "height": 391,
+      "bytes": 21862
+    },
+    {
+      "id": 20,
+      "name": "카말",
+      "wiki": "https://knightrun.fandom.com/wiki/Kamal",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/020_b1d43b1953.webp",
+      "image_url": "https://static.wikia.nocookie.net/knightrun/images/4/4f/K-388.png/revision/latest?cb=20120324125554",
+      "width": 250,
+      "height": 250,
+      "bytes": 18068
+    }
+  ]
+}
