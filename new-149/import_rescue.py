@@ -17,6 +17,13 @@ lines=README.read_text(encoding="utf-8").splitlines(keepends=True)
 rows=[]
 for e in DATA:
   result={"id":e["id"],"name":e["name"],"source_page":e["source_page"],"status":"failed"}
+  # Idempotent reruns: do not re-download images already stored by the same gallery.
+  existing=[l for l in lines if l.startswith("| "+e["name"]+" (")
+            and '<img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/' in l]
+  if existing:
+    result.update(status="already_archived",reason="local portrait present in README")
+    rows.append(result)
+    continue
   try:
     req=urllib.request.Request(e["url"],headers={"User-Agent":"Mozilla/5.0 (V4 portrait review; non-commercial)","Accept":"image/webp,image/png,image/jpeg,image/*;q=0.8"})
     with urllib.request.urlopen(req,timeout=20) as conn:
