@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - '.github/workflows/v4-scan-namu.yml'
+      - 'new-149/scan_namu.py'
   workflow_dispatch:
 permissions:
   contents: write
