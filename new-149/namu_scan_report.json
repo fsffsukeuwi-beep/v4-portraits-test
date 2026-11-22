@@ -1,0 +1,22 @@
+[
+  {
+    "name": "뮈렐",
+    "url": "https://namu.moe/w/뮈렐",
+    "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 7-8: ordinal not in range(128)"
+  },
+  {
+    "name": "베히무스",
+    "url": "https://www.namu.moe/w/베히무스",
+    "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 7-10: ordinal not in range(128)"
+  },
+  {
+    "name": "이령",
+    "url": "https://namu.moe/w/이령(호랑이형님)",
+    "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 7-8: ordinal not in range(128)"
+  },
+  {
+    "name": "아린",
+    "url": "https://d.namu.moe/w/아린(호랑이형님)",
+    "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 7-8: ordinal not in range(128)"
+  }
+]
