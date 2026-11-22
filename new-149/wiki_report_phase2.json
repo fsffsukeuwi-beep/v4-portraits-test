@@ -1,0 +1,250 @@
+{
+  "total": 24,
+  "downloaded": 19,
+  "entries": [
+    {
+      "id": 2,
+      "name": "프레이 마이어",
+      "wiki": "https://knightrun.fandom.com/wiki/Pray_Mayer",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/002_763b6b9318.webp",
+      "image_url": "https://static.wikia.nocookie.net/knightrun/images/6/69/Prayp.png/revision/latest?cb=20120229151918",
+      "width": 580,
+      "height": 580,
+      "bytes": 100932
+    },
+    {
+      "id": 3,
+      "name": "앤 마이어",
+      "wiki": "https://knightrun.fandom.com/wiki/Anne_Mayer",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/003_e2905cbeed.webp",
+      "image_url": "https://static.wikia.nocookie.net/knightrun/images/0/02/Norton-classes.PNG/revision/latest?cb=20180125060730",
+      "width": 683,
+      "height": 344,
+      "bytes": 69284
+    },
+    {
+      "id": 51,
+      "name": "제나로",
+      "wiki": "https://herokiller.fandom.com/wiki/Genaro",
+      "status": "failed",
+      "reason": "ValueError: wiki page missing"
+    },
+    {
+      "id": 52,
+      "name": "풀문",
+      "wiki": "https://herokiller.fandom.com/wiki/Fullmoon",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/052_572cf105df.webp",
+      "image_url": "https://static.wikia.nocookie.net/herokiller/images/a/a4/Fullmoon.png/revision/latest/scale-to-width-down/622?cb=20251128065208",
+      "width": 622,
+      "height": 900,
+      "bytes": 54792
+    },
+    {
+      "id": 53,
+      "name": "헤비 스모커",
+      "wiki": "https://herokiller.fandom.com/wiki/Heavy_Smoker",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/053_29c133fab2.webp",
+      "image_url": "https://static.wikia.nocookie.net/herokiller/images/9/93/Heavy_Smoker.png/revision/latest?cb=20220112195155",
+      "width": 640,
+      "height": 594,
+      "bytes": 41462
+    },
+    {
+      "id": 54,
+      "name": "제로딘",
+      "wiki": "https://herokiller.fandom.com/wiki/Zerodin",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/054_d90f307cf9.webp",
+      "image_url": "https://static.wikia.nocookie.net/herokiller/images/0/07/Zerodin.jpg/revision/latest/scale-to-width-down/511?cb=20250116170215",
+      "width": 511,
+      "height": 899,
+      "bytes": 54976
+    },
+    {
+      "id": 56,
+      "name": "보이드 워커",
+      "wiki": "https://herokiller.fandom.com/wiki/Void_Walker",
+      "status": "failed",
+      "reason": "ValueError: wiki page missing"
+    },
+    {
+      "id": 57,
+      "name": "테러 나이트",
+      "wiki": "https://herokiller.fandom.com/wiki/Terror_Knight",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/057_e6318a61f0.webp",
+      "image_url": "https://static.wikia.nocookie.net/herokiller/images/e/ea/Terror_Knight.jpg/revision/latest/scale-to-width-down/441?cb=20240801144329",
+      "width": 441,
+      "height": 900,
+      "bytes": 72102
+    },
+    {
+      "id": 62,
+      "name": "클레이모어",
+      "wiki": "https://herokiller.fandom.com/wiki/Claymore",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/062_49d831cd25.webp",
+      "image_url": "https://static.wikia.nocookie.net/herokiller/images/2/2d/Claymore.jpg/revision/latest/scale-to-width-down/524?cb=20260530032323",
+      "width": 524,
+      "height": 900,
+      "bytes": 73416
+    },
+    {
+      "id": 100,
+      "name": "이지혜",
+      "wiki": "https://omniscient-readers-viewpoint.fandom.com/wiki/Lee_Jihye",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/100_480d504f35.webp",
+      "image_url": "https://static.wikia.nocookie.net/omniscient-readers-viewpoint/images/6/63/Lee_Jihye_Webnovel.png/revision/latest?cb=20220818060829",
+      "width": 543,
+      "height": 734,
+      "bytes": 41822
+    },
+    {
+      "id": 101,
+      "name": "장하영",
+      "wiki": "https://omniscient-readers-viewpoint.fandom.com/wiki/Jang_Hayoung",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/101_97c8906e65.webp",
+      "image_url": "https://static.wikia.nocookie.net/omniscient-readers-viewpoint/images/8/85/Jhayoung_novel.png/revision/latest?cb=20241030171346",
+      "width": 406,
+      "height": 514,
+      "bytes": 42386
+    },
+    {
+      "id": 107,
+      "name": "류즈캉",
+      "wiki": "https://solo-leveling.fandom.com/wiki/Liu_Zhigang",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/107_1247c10fe4.webp",
+      "image_url": "https://static.wikia.nocookie.net/solo-leveling/images/a/a3/Zhigang8.jpg/revision/latest?cb=20210427152441",
+      "width": 720,
+      "height": 884,
+      "bytes": 31418
+    },
+    {
+      "id": 109,
+      "name": "황동수",
+      "wiki": "https://solo-leveling.fandom.com/wiki/Hwang_Dongsoo",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/109_e7f15f19d4.webp",
+      "image_url": "https://static.wikia.nocookie.net/solo-leveling/images/d/d1/Dongsoo_Ragnarok.png/revision/latest/scale-to-width-down/593?cb=20250924164326",
+      "width": 593,
+      "height": 899,
+      "bytes": 58670
+    },
+    {
+      "id": 112,
+      "name": "레기아",
+      "wiki": "https://solo-leveling.fandom.com/wiki/Legia",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/112_a6e05e1d8e.webp",
+      "image_url": "https://static.wikia.nocookie.net/solo-leveling/images/2/23/Legia8.jpg/revision/latest/scale-to-width-down/677?cb=20210815173629",
+      "width": 677,
+      "height": 899,
+      "bytes": 46528
+    },
+    {
+      "id": 120,
+      "name": "아린",
+      "wiki": "https://tigerbrother.fandom.com/wiki/Arin",
+      "status": "failed",
+      "reason": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "id": 126,
+      "name": "구휘",
+      "wiki": "https://gosu.fandom.com/wiki/Guhwi",
+      "status": "failed",
+      "reason": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "id": 128,
+      "name": "파천신군",
+      "wiki": "https://gosu.fandom.com/wiki/Pacheon_Singun",
+      "status": "failed",
+      "reason": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "id": 135,
+      "name": "크라우젤",
+      "wiki": "https://overgeared.fandom.com/wiki/Kraugel",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/135_9a6c3ea8c8.webp",
+      "image_url": "https://static.wikia.nocookie.net/overgeared/images/3/36/Kraugel_-_Portrait_-_Front.png/revision/latest/scale-to-width-down/584?cb=20220205034842",
+      "width": 584,
+      "height": 900,
+      "bytes": 60862
+    },
+    {
+      "id": 137,
+      "name": "메르세데스",
+      "wiki": "https://overgeared.fandom.com/wiki/Mercedes",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/137_78f271328d.webp",
+      "image_url": "https://static.wikia.nocookie.net/overgeared/images/d/d0/Mercedes_-_Novel_Cover_-_10th.png/revision/latest/scale-to-width-down/358?cb=20210801115612",
+      "width": 358,
+      "height": 899,
+      "bytes": 102108
+    },
+    {
+      "id": 138,
+      "name": "아그너스",
+      "wiki": "https://overgeared.fandom.com/wiki/Agnus",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/138_527a301b6f.webp",
+      "image_url": "https://static.wikia.nocookie.net/overgeared/images/b/b5/Agnus_-_Portrait.png/revision/latest?cb=20240804005807",
+      "width": 531,
+      "height": 446,
+      "bytes": 55814
+    },
+    {
+      "id": 139,
+      "name": "지발",
+      "wiki": "https://overgeared.fandom.com/wiki/Zibal",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/139_0cc999259e.webp",
+      "image_url": "https://static.wikia.nocookie.net/overgeared/images/f/f8/Zibal_-_Portrait.png/revision/latest?cb=20210801044140",
+      "width": 590,
+      "height": 775,
+      "bytes": 104702
+    },
+    {
+      "id": 140,
+      "name": "마리로즈",
+      "wiki": "https://overgeared.fandom.com/wiki/Marie_Rose",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/140_9778e56b7a.webp",
+      "image_url": "https://static.wikia.nocookie.net/overgeared/images/c/c5/Marie_Rose_-_Portrait.png/revision/latest/scale-to-width-down/650?cb=20230607215227",
+      "width": 650,
+      "height": 900,
+      "bytes": 103936
+    },
+    {
+      "id": 141,
+      "name": "파그마",
+      "wiki": "https://overgeared.fandom.com/wiki/Pagma",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/141_60036226f3.webp",
+      "image_url": "https://static.wikia.nocookie.net/overgeared/images/8/8d/Pagma_-_Portrait_-_2.png/revision/latest/scale-to-width-down/591?cb=20220405185203",
+      "width": 591,
+      "height": 900,
+      "bytes": 53208
+    },
+    {
+      "id": 142,
+      "name": "하야테",
+      "wiki": "https://overgeared.fandom.com/wiki/Hayate",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/142_e97ecee3f7.webp",
+      "image_url": "https://static.wikia.nocookie.net/overgeared/images/b/b1/Male.png/revision/latest?cb=20200413225532",
+      "width": 360,
+      "height": 600,
+      "bytes": 5448
+    }
+  ]
+}
