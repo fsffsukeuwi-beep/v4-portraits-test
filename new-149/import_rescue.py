@@ -49,14 +49,14 @@ for e in DATA:
     result["reason"]=type(ex).__name__+": "+str(ex)
   rows.append(result)
 # Count actual media referenced per-character in README, not all extras in the folder.
-n=sum(1 for l in lines if re.match(r'^\\| [^|]+ \\([^)]+\\) \\|',l) and '<img src=' in l)
+n=sum(1 for l in lines if re.match(r'^\| [^|]+ \([^)]+\) \|',l) and '<img src=' in l)
 # Regex above is intentionally anchored; fallback based on unique row pattern if empty.
 if not n:
   n=sum(1 for l in lines if l.startswith("| ") and '<img src=' in l)
 md=''.join(lines)
-md=re.sub(r'실제 파일 기반 인물별 이미지 확보 \\d+명, 미확보 \\d+명',f'실제 파일 기반 인물별 이미지 확보 {n}명, 미확보 {149-n}명',md)
+md=re.sub(r'실제 파일 기반 인물별 이미지 확보 \d+명, 미확보 \d+명',f'실제 파일 기반 인물별 이미지 확보 {n}명, 미확보 {149-n}명',md)
 asset_count=sum(1 for f in (ROOT/"assets").rglob("*") if f.is_file() and f.suffix.lower() in {".jpg",".jpeg",".png",".webp",".gif"})
-md=re.sub(r'총 \\d+개 이미지 파일',f'총 {asset_count}개 이미지 파일',md)
+md=re.sub(r'총 \d+개 이미지 파일',f'총 {asset_count}개 이미지 파일',md)
 README.write_text(md,encoding="utf-8")
 REPORT.write_text(json.dumps({"total":len(rows),"downloaded":sum(r["status"]=="downloaded" for r in rows),"entries":rows},ensure_ascii=False,indent=2),encoding="utf-8")
 for r in rows: print(r["name"],r["status"],r.get("reason",""))
