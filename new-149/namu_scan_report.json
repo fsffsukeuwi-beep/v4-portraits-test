@@ -1,150 +1,273 @@
-[
-  {
-    "name": "뮈렐",
-    "url": "https://namu.moe/w/%EB%AE%88%EB%A0%90",
-    "http_code": 200,
-    "bytes": 39763,
-    "page_title": [
-      "뮈렐"
-    ],
-    "img_count": 21,
-    "img_examples": [
-      {
-        "alt": "크리에이티브 커먼즈 라이선스",
-        "src": "/images/cc-by-nc-sa-2.0-88x31.png"
-      }
-    ],
-    "namu_img_url_count": 0,
-    "file_refs": [
-      "파일:뮈렐 112.jpg' width='100%' data-original='//file.namu.moe/file/b816f70388415ea5257ef5122c29c91ea34887f6125ffeebf3f441d5e7826246'",
-      "파일:뮈렐 112.jpg' width='100%' ",
-      "파일:뮈렐 111.jpg' width='100%' data-original='//file.namu.moe/file/b816f70388415ea5257ef5122c29c91eb6b06b9d59266f5cad06043ba600c36f'",
-      "파일:뮈렐 111.jpg' width='100%' ",
-      "파일:카일리이.jpg' width='100%' data-original='//file.namu.moe/file/86441a7f03575a70031ccd6131794b097a89007ccf3cc8e23ca13de3ceec0160'",
-      "파일:카일리이.jpg' width='100%' ",
-      "파일:아포리오오.jpg' width='100%' data-original='//file.namu.moe/file/6b398fbca26bf6fc14bd5bc1a7223594bc0354a26a2c2414d1311277edf4ae7e'",
-      "파일:아포리오오.jpg' width='100%' ",
-      "파일:베히무스Z.png' width='100%' data-original='//file.namu.moe/file/80dafe918870641b6ddb3f6463c7d788e8ce368c82e469627ed2572fe5aa93de'",
-      "파일:베히무스Z.png' width='100%' ",
-      "파일:시드 베아킨 111.jpg' width='100%' data-original='//file.namu.moe/file/9657e8e7ba54e86684dc2203c955a96e8a8338e7f1feb462578a38d0c9925fea'",
-      "파일:시드 베아킨 111.jpg' width='100%' ",
-      "파일:빈 정사각형 이미지.",
-      "파일:뮈렐.jpg' width='100%' data-original='//file.namu.moe/file/9874c2de5eb664b453c809d93775c2cd087d6343b5a692a5132a24e4796c7ae0'",
-      "파일:뮈렐.jpg' width='100%' "
-    ]
-  },
-  {
-    "name": "베히무스",
-    "url": "https://www.namu.moe/w/%EB%B2%A0%ED%9E%88%EB%AC%B4%EC%8A%A4",
-    "http_code": 200,
-    "bytes": 34587,
-    "page_title": [
-      "베히무스"
-    ],
-    "img_count": 25,
-    "img_examples": [
-      {
-        "alt": "크리에이티브 커먼즈 라이선스",
-        "src": "/images/cc-by-nc-sa-2.0-88x31.png"
-      }
-    ],
-    "namu_img_url_count": 0,
-    "file_refs": [
-      "파일:뮈렐 112.jpg' width='100%' data-original='//file.namu.moe/file/b816f70388415ea5257ef5122c29c91ea34887f6125ffeebf3f441d5e7826246'",
-      "파일:뮈렐 112.jpg' width='100%' ",
-      "파일:뮈렐 111.jpg' width='100%' data-original='//file.namu.moe/file/b816f70388415ea5257ef5122c29c91eb6b06b9d59266f5cad06043ba600c36f'",
-      "파일:뮈렐 111.jpg' width='100%' ",
-      "파일:카일리이.jpg' width='100%' data-original='//file.namu.moe/file/86441a7f03575a70031ccd6131794b097a89007ccf3cc8e23ca13de3ceec0160'",
-      "파일:카일리이.jpg' width='100%' ",
-      "파일:아포리오오.jpg' width='100%' data-original='//file.namu.moe/file/6b398fbca26bf6fc14bd5bc1a7223594bc0354a26a2c2414d1311277edf4ae7e'",
-      "파일:아포리오오.jpg' width='100%' ",
-      "파일:베히무스Z.png' width='100%' data-original='//file.namu.moe/file/80dafe918870641b6ddb3f6463c7d788e8ce368c82e469627ed2572fe5aa93de'",
-      "파일:베히무스Z.png' width='100%' ",
-      "파일:시드 베아킨 111.jpg' width='100%' data-original='//file.namu.moe/file/9657e8e7ba54e86684dc2203c955a96e8a8338e7f1feb462578a38d0c9925fea'",
-      "파일:시드 베아킨 111.jpg' width='100%' ",
-      "파일:빈 정사각형 이미지.",
-      "파일:시체무스.jpg' data-original='//file.namu.moe/file/6dd7de3f6fb0b7c3e2e64ea504bd28b8ba5c8287fa779c2fa3b6b377304ceef8'",
-      "파일:시체무스.jpg' ",
-      "파일:베히무스.png' data-original='//file.namu.moe/file/80dafe918870641b6ddb3f6463c7d788bc9bf50d6a81a03c4f91b8a75baf4943'",
-      "파일:베히무스.png' "
-    ]
-  },
-  {
-    "name": "이령",
-    "url": "https://namu.moe/w/%EC%9D%B4%EB%A0%B9(%ED%98%B8%EB%9E%91%EC%9D%B4%ED%98%95%EB%8B%98)",
-    "http_code": 200,
-    "bytes": 237663,
-    "page_title": [
-      "이령(호랑이형님)"
-    ],
-    "img_count": 19,
-    "img_examples": [
-      {
-        "alt": "크리에이티브 커먼즈 라이선스",
-        "src": "/images/cc-by-nc-sa-2.0-88x31.png"
-      }
-    ],
-    "namu_img_url_count": 0,
-    "file_refs": [
-      "파일:흰 산.png' width='200' data-original='//file.namu.moe/file/320e09d6fe6fc6f074b7839c0c3e81c6f657b79167ac6880abe02ecf34be3481'",
-      "파일:흰 산.png' width='200' ",
-      "파일:호랑이형님 7.jpg' width='100%' data-original='//file.namu.moe/file/096df5347619a1fc4ef0e5062c8b518162a510a73f4dcea6ce58eaea2ead3088'",
-      "파일:호랑이형님 7.jpg' width='100%' ",
-      "파일:이령3부.png' width='100%' data-original='//file.namu.moe/file/2b979ae3fc4843a26d789453d9b28ce0d859279a0be6b94f7aa93475a03e8f0d'",
-      "파일:이령3부.png' width='100%' ",
-      "파일:상세 내용 아이콘.",
-      "파일:20200412_164012.jpg' width='500' data-original='//file.namu.moe/file/3819695b6230fb127b7c14e00c815b31132b559aacaeb0f9fa26b446caa2d184'",
-      "파일:20200412_164012.jpg' width='500' ",
-      "파일:스크린샷 2026-08-07 001723.png' width='100%' data-original='//file.namu.moe/file/f4c2df4ed1c47eb619746621f1f4232f25a03a590d94c4fd40601cd22addd8e",
-      "파일:스크린샷 2026-08-07 001723.png' width='100%' ",
-      "파일:Screen",
-      "파일:붉은 산_1.png' width='200' data-original='//file.namu.moe/file/24082c97af89d7a0d27346c4f9f6bff2d462d09219db4ba0b8291a1eb57ae69f'",
-      "파일:붉은 산_1.png' width='200' ",
-      "파일:CC-white."
-    ]
-  },
-  {
-    "name": "아린",
-    "url": "https://d.namu.moe/w/%EC%95%84%EB%A6%B0(%ED%98%B8%EB%9E%91%EC%9D%B4%ED%98%95%EB%8B%98)",
-    "http_code": 200,
-    "bytes": 251917,
-    "page_title": [
-      "아린(호랑이형님)"
-    ],
-    "img_count": 25,
-    "img_examples": [
-      {
-        "alt": "크리에이티브 커먼즈 라이선스",
-        "src": "/images/cc-by-nc-sa-2.0-88x31.png"
-      }
-    ],
-    "namu_img_url_count": 0,
-    "file_refs": [
-      "파일:흰 산.png' width='200' data-original='//file.namu.moe/file/320e09d6fe6fc6f074b7839c0c3e81c6f657b79167ac6880abe02ecf34be3481'",
-      "파일:흰 산.png' width='200' ",
-      "파일:아린.png' width='100%' data-original='//file.namu.moe/file/ac2129e84e21f2ab14af812470dacd97fa1050e8b7384e1b180829ff1bda45fb'",
-      "파일:아린.png' width='100%' ",
-      "파일:흰눈썹과 아린의 어린 시절 1부.png' data-original='//file.namu.moe/file/b0f7bc70bcfdace3214637911a0a30c2ebc224c236a050311a918c031b07128be89cadc0cd8023f79",
-      "파일:흰눈썹과 아린의 어린 시절 1부.png' ",
-      "파일:아린의 어린 시절 2부.png' width='50%' data-original='//file.namu.moe/file/4b3aca92708f4bfecd240d5c15b17e3a72f6d89607f013ead4118cba1985feb6306d847ab0",
-      "파일:아린의 어린 시절 2부.png' width='50%' ",
-      "파일:아린과 흰눈썹과 무두리가 침대에서 팔짝팔짝.png' data-original='//file.namu.moe/file/fbdfa8f76ce65adabeab5ef42ea8a30ffce6933e0ccc5d34a2b3d4e1484c5a6f7db66038edf",
-      "파일:아린과 흰눈썹과 무두리가 침대에서 팔짝팔짝.png' ",
-      "파일:스크린샷 2026-08-10 014301.png' width='100%' data-original='//file.namu.moe/file/f4c2df4ed1c47eb619746621f1f4232fe49503b9f72cc0d4343677e2aa9e341",
-      "파일:스크린샷 2026-08-10 014301.png' width='100%' ",
-      "파일:20200411_205153.jpg' width='100%' data-original='//file.namu.moe/file/5b3168fadae9fc0f4e10b02beba58e917f202b0346f59453a4ef7b07a14fa757'",
-      "파일:20200411_205153.jpg' width='100%' ",
-      "파일:20200412_022731.jpg' data-original='//file.namu.moe/file/3819695b6230fb127b7c14e00c815b311ace197a0664af92bd09e76dacad5ebb'",
-      "파일:20200412_022731.jpg' ",
-      "파일:20260925_043029521.jpg' data-original='//file.namu.moe/file/97dde05d4036bc65d7385b6beafdc1a624e1c11dfb3516d7d1fcec6bf8e4eb63'",
-      "파일:20260925_043029521.jpg' ",
-      "파일:20200411_205022.jpg' width='100%' data-original='//file.namu.moe/file/5b3168fadae9fc0f4e10b02beba58e9158e56de5449823df2e82af8451ae68d3'",
-      "파일:20200411_205022.jpg' width='100%' ",
-      "파일:20200411_205045.jpg' width='100%' data-original='//file.namu.moe/file/5b3168fadae9fc0f4e10b02beba58e91bae79c6605c2cf423cc30e194671569d'",
-      "파일:20200411_205045.jpg' width='100%' ",
-      "파일:20200411_205115.jpg' width='100%' data-original='//file.namu.moe/file/5b3168fadae9fc0f4e10b02beba58e910282ac99a9c9534a085a5d1a69c57317'",
-      "파일:20200411_205115.jpg' width='100%' ",
-      "파일:CC-white."
-    ]
-  }
-]
+{
+  "targets": 34,
+  "entries": [
+    {
+      "id": 3,
+      "name": "앤 마이어",
+      "requested_title": "앤 마이어",
+      "http_code": 200,
+      "bytes": 196315,
+      "page_title": "앤 마이어",
+      "images": [],
+      "image_count": 0
+    },
+    {
+      "id": 12,
+      "name": "제니 제이",
+      "requested_title": "제니 제이",
+      "http_code": 200,
+      "bytes": 8252,
+      "page_title": "제니 제이",
+      "images": [],
+      "image_count": 0
+    },
+    {
+      "id": 15,
+      "name": "레니",
+      "requested_title": "레니(나이트런)",
+      "http_code": 200,
+      "bytes": 72637,
+      "page_title": "레니(나이트런)",
+      "images": [],
+      "image_count": 0
+    },
+    {
+      "id": 20,
+      "name": "카말",
+      "requested_title": "카말(나이트런)",
+      "http_code": 200,
+      "bytes": 41359,
+      "page_title": "카말(나이트런)",
+      "images": [],
+      "image_count": 0
+    },
+    {
+      "id": 51,
+      "name": "제나로",
+      "requested_title": "제나로(히어로 킬러)",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "id": 55,
+      "name": "바이스",
+      "requested_title": "바이스(히어로 킬러)",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "id": 56,
+      "name": "보이드 워커",
+      "requested_title": "보이드 워커(히어로 킬러)",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "id": 58,
+      "name": "사이코",
+      "requested_title": "사이코(히어로 킬러)",
+      "http_code": 200,
+      "bytes": 86702,
+      "page_title": "사이코(히어로 킬러)",
+      "images": [],
+      "image_count": 0
+    },
+    {
+      "id": 60,
+      "name": "여섯 번째 손가락",
+      "requested_title": "여섯 번째 손가락",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "id": 61,
+      "name": "요원 23",
+      "requested_title": "요원 23(히어로 킬러)",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "id": 63,
+      "name": "캡틴 커틀러스",
+      "requested_title": "캡틴 커틀러스",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "id": 78,
+      "name": "뮈렐",
+      "requested_title": "뮈렐",
+      "http_code": 200,
+      "bytes": 39763,
+      "page_title": "뮈렐",
+      "images": [],
+      "image_count": 0
+    },
+    {
+      "id": 79,
+      "name": "시드 베아킨",
+      "requested_title": "시드(초인의 시대)",
+      "http_code": 200,
+      "bytes": 63218,
+      "page_title": "시드(초인의 시대)",
+      "images": [],
+      "image_count": 0
+    },
+    {
+      "id": 80,
+      "name": "베히무스",
+      "requested_title": "베히무스",
+      "http_code": 200,
+      "bytes": 34587,
+      "page_title": "베히무스",
+      "images": [],
+      "image_count": 0
+    },
+    {
+      "id": 82,
+      "name": "데비아 카일리",
+      "requested_title": "데비아 카일리",
+      "http_code": 200,
+      "bytes": 24259,
+      "page_title": "데비아 카일리",
+      "images": [],
+      "image_count": 0
+    },
+    {
+      "id": 83,
+      "name": "아포리오 아카반가",
+      "requested_title": "아포리오 아카반가",
+      "http_code": 200,
+      "bytes": 17779,
+      "page_title": "아포리오 아카반가",
+      "images": [],
+      "image_count": 0
+    },
+    {
+      "id": 84,
+      "name": "그라브",
+      "requested_title": "그라브(초인의 시대)",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "id": 85,
+      "name": "갈타란",
+      "requested_title": "갈타란",
+      "http_code": 200,
+      "bytes": 11089,
+      "page_title": "갈타란",
+      "images": [],
+      "image_count": 0
+    },
+    {
+      "id": 86,
+      "name": "모스먼",
+      "requested_title": "모스먼(초인의 시대)",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "id": 87,
+      "name": "바베루사",
+      "requested_title": "바베루사",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "id": 88,
+      "name": "카르멘 오피르",
+      "requested_title": "카르멘 오피르",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "id": 89,
+      "name": "헤치",
+      "requested_title": "헤치(초인의 시대)",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "id": 90,
+      "name": "라파",
+      "requested_title": "라파(초인의 시대)",
+      "http_code": 200,
+      "bytes": 19580,
+      "page_title": "라파(초인의 시대)",
+      "images": [],
+      "image_count": 0
+    },
+    {
+      "id": 91,
+      "name": "시미온",
+      "requested_title": "시미온(초인의 시대)",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "id": 92,
+      "name": "바빌론 배뉘셔",
+      "requested_title": "바빌론 배뉘셔",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "id": 93,
+      "name": "지즈 하퍼",
+      "requested_title": "지즈 하퍼",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "id": 94,
+      "name": "토비온",
+      "requested_title": "토비온",
+      "http_code": 200,
+      "bytes": 8948,
+      "page_title": "토비온",
+      "images": [],
+      "image_count": 0
+    },
+    {
+      "id": 115,
+      "name": "빠르",
+      "requested_title": "빠르(호랑이형님)",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "id": 118,
+      "name": "이령",
+      "requested_title": "이령(호랑이형님)",
+      "http_code": 200,
+      "bytes": 237663,
+      "page_title": "이령(호랑이형님)",
+      "images": [],
+      "image_count": 0
+    },
+    {
+      "id": 120,
+      "name": "아린",
+      "requested_title": "아린(호랑이형님)",
+      "http_code": 200,
+      "bytes": 252723,
+      "page_title": "아린(호랑이형님)",
+      "images": [],
+      "image_count": 0
+    },
+    {
+      "id": 121,
+      "name": "구망",
+      "requested_title": "구망(호랑이형님)",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "id": 122,
+      "name": "무커",
+      "requested_title": "무커(호랑이형님)",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "id": 123,
+      "name": "황요",
+      "requested_title": "황요(호랑이형님)",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "id": 142,
+      "name": "하야테",
+      "requested_title": "하야테(템빨)",
+      "http_code": 200,
+      "bytes": 150889,
+      "page_title": "하야테(템빨)",
+      "images": [],
+      "image_count": 0
+    }
+  ]
+}
