@@ -1,0 +1,83 @@
+{
+  "total": 7,
+  "downloaded": 7,
+  "entries": [
+    {
+      "id": 126,
+      "name": "구휘",
+      "wiki": "https://gosuverse.fandom.com/wiki/Goo_Hwi",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/126_57f2e0efc3.webp",
+      "image_url": "https://static.wikia.nocookie.net/gosu-webtoon/images/8/89/Goo_Hwi4.png/revision/latest?cb=20180721155743",
+      "width": 690,
+      "height": 650,
+      "bytes": 41072
+    },
+    {
+      "id": 127,
+      "name": "진가령",
+      "wiki": "https://gosuverse.fandom.com/wiki/Jin_Garyeong",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/127_8dc8d382ad.webp",
+      "image_url": "https://static.wikia.nocookie.net/gosu-webtoon/images/8/82/Jin_Garyeong.png/revision/latest?cb=20160128105108",
+      "width": 655,
+      "height": 900,
+      "bytes": 110930
+    },
+    {
+      "id": 128,
+      "name": "파천신군",
+      "wiki": "https://gosuverse.fandom.com/wiki/Dokgo_Ryong",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/128_e596e2dbd2.webp",
+      "image_url": "https://static.wikia.nocookie.net/gosu-webtoon/images/1/1b/Dokgo_Ryong.png/revision/latest?cb=20160125012406",
+      "width": 480,
+      "height": 410,
+      "bytes": 75512
+    },
+    {
+      "id": 129,
+      "name": "혈비",
+      "wiki": "https://gosuverse.fandom.com/wiki/Hyeol_Bi",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/129_9ede1ff748.webp",
+      "image_url": "https://static.wikia.nocookie.net/gosu-webtoon/images/0/0e/Hyeol_Bi3.png/revision/latest?cb=20180215073642",
+      "width": 690,
+      "height": 570,
+      "bytes": 102308
+    },
+    {
+      "id": 130,
+      "name": "환사",
+      "wiki": "https://gosuverse.fandom.com/wiki/Hwan_Sa",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/130_2fd51e4f3f.webp",
+      "image_url": "https://static.wikia.nocookie.net/gosu-webtoon/images/c/c7/Hwan_Sa3.png/revision/latest?cb=20180215073640",
+      "width": 690,
+      "height": 680,
+      "bytes": 37730
+    },
+    {
+      "id": 131,
+      "name": "막사평",
+      "wiki": "https://gosuverse.fandom.com/wiki/Mak_Sapyeong",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/131_d9c7047e87.webp",
+      "image_url": "https://static.wikia.nocookie.net/gosu-webtoon/images/2/27/Mak_Sapyeong.png/revision/latest?cb=20210330154243",
+      "width": 500,
+      "height": 500,
+      "bytes": 63802
+    },
+    {
+      "id": 132,
+      "name": "옥천비",
+      "wiki": "https://gosuverse.fandom.com/wiki/Okcheonbi",
+      "status": "downloaded",
+      "path": "new-149/assets/wiki/132_28490c8d12.webp",
+      "image_url": "https://static.wikia.nocookie.net/gosu-webtoon/images/f/f4/Okcheonbi_Portrait.png/revision/latest?cb=20200922225756",
+      "width": 683,
+      "height": 879,
+      "bytes": 143954
+    }
+  ]
+}
