@@ -1,0 +1,39 @@
+{
+  "entries": [
+    {
+      "id": 30,
+      "name": "하이든",
+      "page": "https://noblesse.fandom.com/wiki/Haydn"
+    },
+    {
+      "id": 31,
+      "name": "지오",
+      "page": "https://noblesse.fandom.com/wiki/Geo"
+    },
+    {
+      "id": 35,
+      "name": "루타이",
+      "page": "https://noblesse.fandom.com/wiki/Lutai"
+    },
+    {
+      "id": 39,
+      "name": "보네르",
+      "page": "https://noblesse.fandom.com/wiki/Bonerre"
+    },
+    {
+      "id": 43,
+      "name": "칼빈",
+      "page": "https://noblesse.fandom.com/wiki/Kalvin"
+    },
+    {
+      "id": 3,
+      "name": "앤 마이어",
+      "page": "https://knightrun.fandom.com/wiki/Anne_Mayer/Gallery"
+    },
+    {
+      "id": 12,
+      "name": "제니 제이",
+      "page": "https://knightrun.fandom.com/wiki/Jenny_Jey"
+    }
+  ]
+}
