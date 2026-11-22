@@ -1,6 +1,6 @@
 # V4 신규 149명 — 이미지 및 검증 현황
 
-이 페이지는 **정사 등록된 신규 149명**의 초상 현황이다. **실제 GitHub 파일이 인물별로 연결된 115명, 미확보 34명**이다. 신규 폴더에는 후보 컷과 미채택 컷을 포함한 **총 133개 이미지 파일**이 저장되어 있으며, 인물별 확보 수와 파일 수는 다르다. 사진 저장·육안 검수만으로 사용 권한이나 모든 환경에서의 표시 성공이 보장되지는 않는다. **기존 239명 초상 파일은 변경하지 않았다.**
+이 페이지는 **정사 등록된 신규 149명**의 초상 현황이다. **실제 GitHub 파일이 인물별로 연결된 117명, 미확보 32명**이다. 신규 폴더에는 후보 컷과 미채택 컷을 포함한 **총 133개 이미지 파일**이 저장되어 있으며, 인물별 확보 수와 파일 수는 다르다. 사진 저장·육안 검수만으로 사용 권한이나 모든 환경에서의 표시 성공이 보장되지는 않는다. **기존 239명 초상 파일은 변경하지 않았다.**
 
 
 ## 나이트런 기사단
@@ -9,7 +9,7 @@
 |---|---|---|
 | 드라이 레온하르트 (S) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/imported/001_3482314476.webp" width="100" alt="드라이 레온하르트" /> | 원작 컷 · [출처](https://www.harum.io/products/knight-run-knight-fall-manhwa) · 미저장 |
 | 프레이 마이어 (EX) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/wiki/002_763b6b9318.webp" width="100" alt="프레이 마이어" /> | 위키 인물 대표 컷 · [출처](https://knightrun.fandom.com/wiki/Pray_Mayer) · GitHub 파일 보관
-| 앤 마이어 (A+) | 미확보 | [네이버](https://search.naver.com/search.naver?where=image&query=%EB%82%98%EC%9D%B4%ED%8A%B8%EB%9F%B0%20Knight%20Run%20%EC%95%A4%20%EB%A7%88%EC%9D%B4%EC%96%B4) · [구글](https://www.google.com/search?udm=2&q=%EB%82%98%EC%9D%B4%ED%8A%B8%EB%9F%B0%20Knight%20Run%20%EC%95%A4%20%EB%A7%88%EC%9D%B4%EC%96%B4%20Anne%20Mayer%20%EC%9B%90%EC%9E%91%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%96%BC%EA%B5%B4%20%ED%94%84%EB%A1%9C%ED%95%84) |
+| 앤 마이어 (A+) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/knight/003_faab1b3a5b.webp" width="100" alt="앤 마이어" /> | 《나이트런》 원작 인물 단독 컷 · [출처](https://knightrun.fandom.com/wiki/Anne_Mayer/Gallery) · GitHub 파일 보관 (이용 권한 별도 확인) |
 | 시온 자일 (A+) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/wiki/004_fb902f8adc.webp" width="100" alt="시온 자일" /> | 위키 인물별 대표 컷 · [출처](https://knightrun.fandom.com/wiki/Sion_Zail) · GitHub 파일 보관
 | 리아 자일 (A+) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/imported/005_0b9cd605a1.jpg" width="100" alt="리아 자일" /> | 원작 컷 / 부분 단체 컷 · [출처](https://www.inven.co.kr/board/wot/3200/25033) · 미저장 |
 | 마일로 레온하르트 (A+) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/wiki/006_6d16423e9a.webp" width="100" alt="마일로 레온하르트" /> | 원작 위키 캐릭터 페이지 대표 컷 · [출처](https://knightrun.fandom.com/wiki/Milo_Leonhard) · GitHub 파일 보관
