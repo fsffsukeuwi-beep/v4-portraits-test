@@ -1,6 +1,6 @@
 # V4 신규 149명 — 이미지 및 검증 현황
 
-이 페이지는 **정사 등록된 신규 149명**의 초상 현황이다. **실제 GitHub 파일이 인물별로 연결된 118명, 미확보 31명**이다. 신규 폴더에는 후보 컷과 미채택 컷을 포함한 **총 136개 이미지 파일**이 저장되어 있으며, 인물별 확보 수와 파일 수는 다르다. 사진 저장·육안 검수만으로 사용 권한이나 모든 환경에서의 표시 성공이 보장되지는 않는다. **기존 239명 초상 파일은 변경하지 않았다.**
+이 페이지는 **정사 등록된 신규 149명**의 초상 현황이다. **실제 GitHub 파일이 인물별로 연결된 119명, 미확보 30명**이다. 신규 폴더에는 후보 컷과 미채택 컷을 포함한 **총 137개 이미지 파일**이 저장되어 있으며, 인물별 확보 수와 파일 수는 다르다. 사진 저장·육안 검수만으로 사용 권한이나 모든 환경에서의 표시 성공이 보장되지는 않는다. **기존 239명 초상 파일은 변경하지 않았다.**
 
 
 ## 나이트런 기사단
@@ -18,7 +18,7 @@
 | 다니엘 레온하르트 (A) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/wiki/009_1c4054b4ee.webp" width="100" alt="다니엘 레온하르트" /> | 원작 위키 캐릭터 페이지 대표 컷 · [출처](https://knightrun.fandom.com/wiki/Daniel_Leonhard) · GitHub 파일 보관
 | 메이 자일 (A−) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/wiki/010_d88c0a8baf.webp" width="100" alt="메이 자일" /> | 위키 인물별 대표 컷 · [출처](https://knightrun.fandom.com/wiki/May_Zail) · GitHub 파일 보관
 | 레이 넬슨 (A−) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/wiki/011_1ae20b7113.webp" width="100" alt="레이 넬슨" /> | 나이트런 인물별 위키 대표 컷 · [출처](https://knightrun.fandom.com/wiki/Ray_Nelson) · GitHub 파일 보관 (저작권 별도 확인) |
-| 제니 제이 (A−) | 미확보 | [네이버](https://search.naver.com/search.naver?where=image&query=%EB%82%98%EC%9D%B4%ED%8A%B8%EB%9F%B0%20Knight%20Run%20%EC%A0%9C%EB%8B%88%20%EC%A0%9C%EC%9D%B4) · [구글](https://www.google.com/search?udm=2&q=%EB%82%98%EC%9D%B4%ED%8A%B8%EB%9F%B0%20Knight%20Run%20%EC%A0%9C%EB%8B%88%20%EC%A0%9C%EC%9D%B4%20Jenny%20Jey%20%EC%9B%90%EC%9E%91%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%96%BC%EA%B5%B4%20%ED%94%84%EB%A1%9C%ED%95%84) |
+| 제니 제이 (A−) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/user/012_제니_제이.jpeg" width="100" alt="제니 제이" /> | **사용자 제공·인물명 확정** · 업로드 원본 그대로 GitHub에 보관 |
 | 단 (A−) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/wiki/013_36fdaff04f.webp" width="100" alt="단" /> | 나이트런 인물별 위키 대표 컷 · [출처](https://knightrun.fandom.com/wiki/Dan) · GitHub 파일 보관 (저작권 별도 확인) |
 | 레오 (B+) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/wiki/014_8be71808e9.webp" width="100" alt="레오" /> | 나이트런 인물별 위키 대표 컷 · [출처](https://knightrun.fandom.com/wiki/Leo) · GitHub 파일 보관 (저작권 별도 확인) |
 | 레니 (B+) | <img src="https://raw.githubusercontent.com/fsffsukeuwi-beep/v4-portraits-test/main/new-149/assets/late/015_66a3cf4b7f.webp" width="100" alt="레니" /> | 원작 레니 중심 위키 컷 · [출처](https://knightrun.fandom.com/wiki/Leny) · GitHub 파일 보관 (권리 별도 확인) |
