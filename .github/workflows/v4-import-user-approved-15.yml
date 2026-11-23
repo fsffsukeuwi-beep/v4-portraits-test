@@ -1,0 +1,31 @@
+name: Archive 15 user-approved V4 character portraits
+on:
+  push:
+    paths:
+      - '.github/workflows/v4-import-user-approved-15.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  archive-user-approved-portraits:
+    runs-on: ubuntu-latest
+    timeout-minutes: 14
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install --disable-pip-version-check pillow
+      - name: Download and verify exact approved source image bytes
+        run: python new-15/import_user_approved.py
+      - name: Commit actual saved originals and individual CDN manifest
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add new-15/assets new-15/import_report.json new-15/portrait_links_15.csv
+          if ! git diff --cached --quiet; then
+            git commit -m "Archive approved V4 new fifteen portrait images"
+            git push
+          fi
