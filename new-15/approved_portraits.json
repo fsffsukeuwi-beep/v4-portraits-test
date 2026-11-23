@@ -1,0 +1,248 @@
+{
+  "project": "V4",
+  "user_approved": "2026-11-23",
+  "approval_scope": "The 15 previously presented individual image candidates are expressly approved by the user. Preserve bytes without image generation or substitutions.",
+  "repo": "fsffsukeuwi-beep/v4-portraits-test",
+  "items": [
+    {
+      "id": "01",
+      "name": "피거랜드 샴록",
+      "faction": "신의 기사단",
+      "slug": "shamrock",
+      "source_url": "https://staticg.sportskeeda.com/editor/2025/02/4c87b-17406000325146-1920.jpg",
+      "source_provenance": "external",
+      "combat": [
+        11,
+        11,
+        11,
+        12,
+        "S",
+        "A+"
+      ]
+    },
+    {
+      "id": "02",
+      "name": "군코",
+      "faction": "신의 기사단",
+      "slug": "gunko",
+      "source_url": "https://pbs.twimg.com/media/HJfpQlQbcAADMOi.jpg",
+      "source_provenance": "external",
+      "combat": [
+        9,
+        11,
+        10,
+        11,
+        "S",
+        "A"
+      ]
+    },
+    {
+      "id": "03",
+      "name": "셰퍼드 소머즈",
+      "faction": "신의 기사단",
+      "slug": "sommers",
+      "source_url": "https://elcomercio.pe/resizer/v2/JBLFWO623BBY7IMZLTBBAD2QQE.jpg?auth=80e3e1c8aacd4f3c1fd4490786fb7562c9ba396bdcea5026d9de4a98c3855bac&height=1620&quality=75&smart=true&width=2400",
+      "source_provenance": "external",
+      "combat": [
+        9,
+        9,
+        10,
+        9,
+        "S",
+        "A−"
+      ]
+    },
+    {
+      "id": "04",
+      "name": "리모시프 킬링엄",
+      "faction": "신의 기사단",
+      "slug": "killingham",
+      "source_url": "https://onepieceboard.com/images/1522.png",
+      "source_provenance": "external",
+      "combat": [
+        8,
+        9,
+        10,
+        9,
+        "S",
+        "A−"
+      ]
+    },
+    {
+      "id": "05",
+      "name": "사토",
+      "faction": "독립",
+      "slug": "sato",
+      "source_url": "https://ogre.natalie.mu/media/news/comic/2015/0730/ajin_gekijou0730_4.jpg?imdensity=1&imwidth=750",
+      "source_provenance": "external",
+      "combat": [
+        3,
+        4,
+        3,
+        7,
+        "S",
+        "B"
+      ]
+    },
+    {
+      "id": "06",
+      "name": "프리렌",
+      "faction": "프리렌 일행",
+      "slug": "frieren",
+      "source_url": "https://frieren-anime.jp/wp-content/uploads/2023/08/chara01_full1.png",
+      "source_provenance": "official-site",
+      "combat": [
+        3,
+        7,
+        4,
+        8,
+        "S",
+        "A−"
+      ]
+    },
+    {
+      "id": "07",
+      "name": "페른",
+      "faction": "프리렌 일행",
+      "slug": "fern",
+      "source_url": "https://frieren-anime.jp/wp-content/uploads/2023/08/chara02_full1.png",
+      "source_provenance": "official-site",
+      "combat": [
+        3,
+        7,
+        3,
+        9,
+        "S",
+        "B+"
+      ]
+    },
+    {
+      "id": "08",
+      "name": "슈타르크",
+      "faction": "프리렌 일행",
+      "slug": "stark",
+      "source_url": "https://frieren-anime.jp/wp-content/uploads/2023/08/chara03_full1.png",
+      "source_provenance": "official-site",
+      "combat": [
+        9,
+        8,
+        9,
+        9,
+        "F",
+        "B"
+      ]
+    },
+    {
+      "id": "09",
+      "name": "제리에",
+      "faction": "대륙마법협회",
+      "slug": "serie",
+      "source_url": "https://frieren-anime.jp/wp-content/uploads/2024/02/chara15_face1.jpg",
+      "source_provenance": "official-site",
+      "combat": [
+        4,
+        7,
+        5,
+        10,
+        "S",
+        "A+"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "레르넨",
+      "faction": "대륙마법협회",
+      "slug": "lernen",
+      "source_url": "https://frieren-anime.jp/wp-content/uploads/2024/03/chara18_full1.png",
+      "source_provenance": "official-site",
+      "combat": [
+        3,
+        5,
+        4,
+        8,
+        "S",
+        "A−"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "게나우",
+      "faction": "대륙마법협회",
+      "slug": "genau",
+      "source_url": "https://frieren-anime.jp/wp-content/uploads/2024/01/chara11_face1.jpg",
+      "source_provenance": "official-site",
+      "combat": [
+        3,
+        6,
+        4,
+        8,
+        "A",
+        "B+"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "젠제",
+      "faction": "대륙마법협회",
+      "slug": "sense",
+      "source_url": "https://frieren-anime.jp/wp-content/uploads/2024/01/chara10_face1.jpg",
+      "source_provenance": "official-site",
+      "combat": [
+        3,
+        6,
+        4,
+        9,
+        "A",
+        "B+"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "루돌 폰 슈트로하임",
+      "faction": "죠죠 협력 인물",
+      "slug": "stroheim",
+      "source_url": "https://jojo-portal.com/wp-content/themes/jojo-portal/1st/assets/images/common/character/bt/04/img_chara.png",
+      "source_provenance": "official-site",
+      "combat": [
+        8,
+        6,
+        8,
+        7,
+        "B",
+        "B−"
+      ]
+    },
+    {
+      "id": "14",
+      "name": "하츠네 미쿠",
+      "faction": "독립",
+      "slug": "miku",
+      "source_url": "https://piapro.net/intl/images/official_cos_miku.jpg",
+      "source_provenance": "official-site",
+      "combat": [
+        3,
+        10,
+        5,
+        9,
+        "S",
+        "A−"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "야가미 라이토",
+      "faction": "독립",
+      "slug": "light",
+      "source_url": "https://cdn.neoapo.com/images/character/1893/4f5982aca36d3f9367f0045abd36a92a.webp",
+      "source_provenance": "external",
+      "combat": [
+        2,
+        3,
+        2,
+        5,
+        "EX",
+        "S"
+      ]
+    }
+  ]
+}
