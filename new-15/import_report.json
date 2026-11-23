@@ -1,6 +1,6 @@
 {
   "user_approved": "2026-11-23",
-  "saved": 12,
+  "saved": 15,
   "total": 15,
   "items": [
     {
@@ -24,8 +24,8 @@
       "format": "WEBP",
       "width": 1920,
       "height": 1080,
-      "bytes": 131578,
-      "sha256": "b5845e05389c9c4e80eb21b3200d93e8cc06aed09eaf5249f6a35f9f9fc69c15"
+      "bytes": 156628,
+      "sha256": "e14491c04851ed44ef9a75470558353b4a0dfe8df613c5309214c81ca5e28e66"
     },
     {
       "id": "02",
@@ -66,8 +66,14 @@
         "S",
         "A−"
       ],
-      "status": "failed",
-      "error": "unsupported image format: AVIF"
+      "status": "saved",
+      "path": "new-15/assets/03_sommers.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-15/assets/03_sommers.webp",
+      "format": "WEBP",
+      "width": 2400,
+      "height": 1620,
+      "bytes": 125502,
+      "sha256": "41175112b112f506aaebd32b6454cf0a55fca338d55b72ace16449c9002330d3"
     },
     {
       "id": "04",
@@ -84,8 +90,14 @@
         "S",
         "A−"
       ],
-      "status": "failed",
-      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)>"
+      "status": "saved",
+      "path": "new-15/assets/04_killingham.png",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-15/assets/04_killingham.png",
+      "format": "PNG",
+      "width": 400,
+      "height": 400,
+      "bytes": 330884,
+      "sha256": "76cd61f6c3d41426edcc5513f017934a626673bf3a40129d53d12f16f25e544c"
     },
     {
       "id": "05",
@@ -102,8 +114,14 @@
         "S",
         "B"
       ],
-      "status": "failed",
-      "error": "unsupported image format: AVIF"
+      "status": "saved",
+      "path": "new-15/assets/05_sato.webp",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-15/assets/05_sato.webp",
+      "format": "WEBP",
+      "width": 750,
+      "height": 682,
+      "bytes": 12796,
+      "sha256": "45cf72432519ef9795542db0086e40c96e1761f055201e9a8b2834dd679ef13f"
     },
     {
       "id": "06",
