@@ -1,4 +1,5 @@
 name: Archive 15 user-approved V4 character portraits
+# Retry after image negotiation and approved-source TLS fixes.
 on:
   push:
     paths:
