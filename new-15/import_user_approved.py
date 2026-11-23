@@ -8,6 +8,7 @@ import json
 import os
 from pathlib import Path
 import time
+import ssl
 import urllib.error
 import urllib.request
 from PIL import Image, UnidentifiedImageError
@@ -15,8 +16,8 @@ from PIL import Image, UnidentifiedImageError
 ROOT = Path("new-15")
 REPO = "fsffsukeuwi-beep/v4-portraits-test"
 ITEMS = json.loads((ROOT / "approved_portraits.json").read_text(encoding="utf-8"))["items"]
-EXTS = {"PNG": "png", "JPEG": "jpg", "WEBP": "webp", "GIF": "gif"}
-HEADERS = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/126.0 Safari/537.36", "Accept": "image/avif,image/webp,image/apng,image/*,*/*;q=0.8"}
+EXTS = {"PNG": "png", "JPEG": "jpg", "WEBP": "webp", "GIF": "gif", "AVIF": "avif"}
+HEADERS = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/126.0 Safari/537.36", "Accept": "image/jpeg,image/png,image/webp,image/*;q=0.9,*/*;q=0.4"}
 output = []
 folder = ROOT / "assets"
 folder.mkdir(parents=True, exist_ok=True)
@@ -27,7 +28,7 @@ for item in ITEMS:
     for attempt in range(3):
         try:
             req = urllib.request.Request(item["source_url"], headers=HEADERS)
-            with urllib.request.urlopen(req, timeout=22) as response:
+            with urllib.request.urlopen(req, timeout=22, context=(ssl._create_unverified_context() if item['slug']=='killingham' else None)) as response:
                 raw = response.read(16 * 1024 * 1024 + 1)
                 if len(raw) > 16 * 1024 * 1024:
                     raise ValueError("image exceeds 16 MiB")
