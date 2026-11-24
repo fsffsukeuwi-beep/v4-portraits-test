@@ -1,0 +1,638 @@
+{
+  "checked_at_utc": "2026-11-24T04:44:51.762819+00:00",
+  "portrait_commit": "6693703e8630405050ba5a815173c4d7f9ce2fe4",
+  "results": [
+    {
+      "id": "KR040",
+      "name": "아나콘다",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR040.png",
+      "expected_sha256": "444aed9656ce2a235da8465de6bc6141fc246ae5661ac6288fd90c2bfa694b29",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        470,
+        670
+      ],
+      "actual_sha256": "444aed9656ce2a235da8465de6bc6141fc246ae5661ac6288fd90c2bfa694b29",
+      "bytes": 323977,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR041",
+      "name": "오치아",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR041.png",
+      "expected_sha256": "a6ca15485bff30db578057912ff7beb442174d34cf23bbd086713760fff9562e",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        570,
+        540
+      ],
+      "actual_sha256": "a6ca15485bff30db578057912ff7beb442174d34cf23bbd086713760fff9562e",
+      "bytes": 293129,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR042",
+      "name": "야마카가시",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR042.png",
+      "expected_sha256": "cc4d3ffa659e86a1cc9146d75fa3523c16a4942bee35ac524f98769c7ff74cdb",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        690,
+        680
+      ],
+      "actual_sha256": "cc4d3ffa659e86a1cc9146d75fa3523c16a4942bee35ac524f98769c7ff74cdb",
+      "bytes": 533337,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR043",
+      "name": "클로로",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR043.png",
+      "expected_sha256": "ab7b9d555b3099aea87e0a5ba12b63ae5f90443b432cfc6c49786e37f2566e9a",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        335,
+        500
+      ],
+      "actual_sha256": "ab7b9d555b3099aea87e0a5ba12b63ae5f90443b432cfc6c49786e37f2566e9a",
+      "bytes": 160050,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR045",
+      "name": "베루스",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR045.png",
+      "expected_sha256": "a0a78bb104ee7343f34f9f64de5cc1ce961d8aa8bdd2a166c156489384911591",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        490,
+        670
+      ],
+      "actual_sha256": "a0a78bb104ee7343f34f9f64de5cc1ce961d8aa8bdd2a166c156489384911591",
+      "bytes": 387534,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR046",
+      "name": "키바 제로",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR046.png",
+      "expected_sha256": "986ce1054b5016bb8c2d76e730d045a393315a611abccca92b42c732b9d261e9",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        330,
+        440
+      ],
+      "actual_sha256": "986ce1054b5016bb8c2d76e730d045a393315a611abccca92b42c732b9d261e9",
+      "bytes": 173216,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR051",
+      "name": "수색조장",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR051.png",
+      "expected_sha256": "1b3cd5794e34a7455a8132626e0b58f5179542098f749086662dad96bf0039b7",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        310,
+        560
+      ],
+      "actual_sha256": "1b3cd5794e34a7455a8132626e0b58f5179542098f749086662dad96bf0039b7",
+      "bytes": 173125,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR067",
+      "name": "필립보",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR067.png",
+      "expected_sha256": "d71ce06bb9958a2e9e2af02e415adc5a5a7f71e33db49abf34e310a9df8d8f8d",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        570,
+        620
+      ],
+      "actual_sha256": "d71ce06bb9958a2e9e2af02e415adc5a5a7f71e33db49abf34e310a9df8d8f8d",
+      "bytes": 416404,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR064",
+      "name": "라파엘",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR064.png",
+      "expected_sha256": "2452f5c82186fa3e9328ba0dbbcefd3c04f28886443ff02f2d167b593f5533f1",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        690,
+        650
+      ],
+      "actual_sha256": "2452f5c82186fa3e9328ba0dbbcefd3c04f28886443ff02f2d167b593f5533f1",
+      "bytes": 162749,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR081",
+      "name": "카게오",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR081.png",
+      "expected_sha256": "77eebcee2453bbd035b1e25eedd05f02573e04ff496e71308b6cd0cd90153d01",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        590,
+        930
+      ],
+      "actual_sha256": "77eebcee2453bbd035b1e25eedd05f02573e04ff496e71308b6cd0cd90153d01",
+      "bytes": 436870,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR007",
+      "name": "박종건",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR007.png",
+      "expected_sha256": "7555e8fc08f6e7e7b82f54785d5803ee128a8fcb89a5d72b08c65f2a395ac308",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        610,
+        590
+      ],
+      "actual_sha256": "7555e8fc08f6e7e7b82f54785d5803ee128a8fcb89a5d72b08c65f2a395ac308",
+      "bytes": 319790,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR009",
+      "name": "강다겸",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR009.png",
+      "expected_sha256": "434e8a2c571e421a45e380f7635fa9cfca4b81a3dc8adf9c5709fca81aa71fa7",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        690,
+        635
+      ],
+      "actual_sha256": "434e8a2c571e421a45e380f7635fa9cfca4b81a3dc8adf9c5709fca81aa71fa7",
+      "bytes": 410355,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR008",
+      "name": "김준구",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR008.png",
+      "expected_sha256": "2d9c977666b1ddea095915a43fa764b571b81d6b810304169f1334f58f0feb14",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        690,
+        1100
+      ],
+      "actual_sha256": "2d9c977666b1ddea095915a43fa764b571b81d6b810304169f1334f58f0feb14",
+      "bytes": 620156,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR016",
+      "name": "서성은",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR016.png",
+      "expected_sha256": "97a6364ad8b0c72740196121a09f2519f9692609669f23ca9dc44af7ea26bbfe",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        690,
+        845
+      ],
+      "actual_sha256": "97a6364ad8b0c72740196121a09f2519f9692609669f23ca9dc44af7ea26bbfe",
+      "bytes": 561829,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR071",
+      "name": "타대오",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR071.png",
+      "expected_sha256": "9aa75fc1d88411cce3a318210de7640e278977b06e6ab1ff2ec96a934db915a5",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        690,
+        885
+      ],
+      "actual_sha256": "9aa75fc1d88411cce3a318210de7640e278977b06e6ab1ff2ec96a934db915a5",
+      "bytes": 601211,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR070",
+      "name": "유이카(가짜 시몬)",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR070.png",
+      "expected_sha256": "4220c6b739f951b1d786b5cd216c23080c6f54498cc9389d13687e8b741f8d3a",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        690,
+        800
+      ],
+      "actual_sha256": "4220c6b739f951b1d786b5cd216c23080c6f54498cc9389d13687e8b741f8d3a",
+      "bytes": 610174,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR039",
+      "name": "블랙맘바(사신소년)",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR039.png",
+      "expected_sha256": "aabebdb74f2e93c8a0eb64fbdaf20ff2779f5c986906f64b529de39219359a1f",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        690,
+        725
+      ],
+      "actual_sha256": "aabebdb74f2e93c8a0eb64fbdaf20ff2779f5c986906f64b529de39219359a1f",
+      "bytes": 385382,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR068",
+      "name": "조한",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR068.png",
+      "expected_sha256": "5eb6e4d956bcce42714a57a60c81cb915d619fda5016ffa2d29c4f38b4ac8218",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        690,
+        1010
+      ],
+      "actual_sha256": "5eb6e4d956bcce42714a57a60c81cb915d619fda5016ffa2d29c4f38b4ac8218",
+      "bytes": 548894,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR069",
+      "name": "마태오",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR069.png",
+      "expected_sha256": "54d8db204810ea2d931e697dbbe61aa53b93b87a442a1882cbd82de8502e4282",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        690,
+        643
+      ],
+      "actual_sha256": "54d8db204810ea2d931e697dbbe61aa53b93b87a442a1882cbd82de8502e4282",
+      "bytes": 591030,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR065",
+      "name": "안드레아스",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR065.png",
+      "expected_sha256": "f8046830f16823a7746086537561f9a101fa1a07617e1cfb2d9c8970e507ea84",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        690,
+        900
+      ],
+      "actual_sha256": "f8046830f16823a7746086537561f9a101fa1a07617e1cfb2d9c8970e507ea84",
+      "bytes": 502016,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR006",
+      "name": "딘 아그네스",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR006.png",
+      "expected_sha256": "e26ac68188c4de9a2bc9c6564bd5e442e94b8255b713e67d2c644e3e4b831dda",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        714,
+        713
+      ],
+      "actual_sha256": "e26ac68188c4de9a2bc9c6564bd5e442e94b8255b713e67d2c644e3e4b831dda",
+      "bytes": 651786,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR003",
+      "name": "P",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR003.png",
+      "expected_sha256": "f09e0bbfef863b280e2fa59e643b04723c11227df6803b4b93c28c4293b0b489",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        400,
+        400
+      ],
+      "actual_sha256": "f09e0bbfef863b280e2fa59e643b04723c11227df6803b4b93c28c4293b0b489",
+      "bytes": 145360,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR014",
+      "name": "유성",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR014.png",
+      "expected_sha256": "8279c7da197b7d44a2022526bde938828a102debf45136a7cfa79a4e28f751f7",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        954,
+        1374
+      ],
+      "actual_sha256": "8279c7da197b7d44a2022526bde938828a102debf45136a7cfa79a4e28f751f7",
+      "bytes": 1093461,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR019",
+      "name": "샤오룽",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR019.png",
+      "expected_sha256": "600f5e2312870e6f1b8a5827326b743b7c27773e2cd6e9800cf337d931e31fb4",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        736,
+        1176
+      ],
+      "actual_sha256": "600f5e2312870e6f1b8a5827326b743b7c27773e2cd6e9800cf337d931e31fb4",
+      "bytes": 589174,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR021",
+      "name": "왕오춘",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR021.png",
+      "expected_sha256": "4cb9f0e4ee7445e13baa8e0249fec188214328ed22b1be9a30d154ed08ba1af9",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        750,
+        1086
+      ],
+      "actual_sha256": "4cb9f0e4ee7445e13baa8e0249fec188214328ed22b1be9a30d154ed08ba1af9",
+      "bytes": 730137,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR055",
+      "name": "나백진",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR055.png",
+      "expected_sha256": "d2ab0f2660d0bed6e49ca6dca7031bff1c3893e9bfc8174667b75dfa4f03e412",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        540,
+        462
+      ],
+      "actual_sha256": "d2ab0f2660d0bed6e49ca6dca7031bff1c3893e9bfc8174667b75dfa4f03e412",
+      "bytes": 262487,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR063",
+      "name": "권혁진",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR063.png",
+      "expected_sha256": "405b0c61474cbafee677f12ca0172dcd001f030cb9d50f5ee89409bf714bd8b3",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        1368,
+        1834
+      ],
+      "actual_sha256": "405b0c61474cbafee677f12ca0172dcd001f030cb9d50f5ee89409bf714bd8b3",
+      "bytes": 1948870,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR056",
+      "name": "지학호",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR056.png",
+      "expected_sha256": "11605637d88d5996f701d621f8827922af1bbfedfc894abaf3e368ee1355dd9c",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        1036,
+        1426
+      ],
+      "actual_sha256": "11605637d88d5996f701d621f8827922af1bbfedfc894abaf3e368ee1355dd9c",
+      "bytes": 1235202,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR057",
+      "name": "금성제",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR057.png",
+      "expected_sha256": "1d748c46beff96d9ec826ae047a37cf1bff34ad53e1b0ff3f8a6e2bf62de6d35",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        736,
+        842
+      ],
+      "actual_sha256": "1d748c46beff96d9ec826ae047a37cf1bff34ad53e1b0ff3f8a6e2bf62de6d35",
+      "bytes": 533222,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR023",
+      "name": "백도찬",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@6693703e8630405050ba5a815173c4d7f9ce2fe4/new-korean/portraits/KR023.png",
+      "expected_sha256": "a813f23df724fa3c3bb24b7ae586c696f0f6b9d6b72e519317a7c682001b49bc",
+      "ok": true,
+      "original_main_error": "HTTP Error 403: Forbidden",
+      "http_status": 200,
+      "actual_sha256": "a813f23df724fa3c3bb24b7ae586c696f0f6b9d6b72e519317a7c682001b49bc",
+      "bytes": 159436,
+      "decoded_size": [
+        324,
+        351
+      ],
+      "byte_match": true,
+      "content_type": "image/png"
+    },
+    {
+      "id": "KR027",
+      "name": "남궁혁",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR027.png",
+      "expected_sha256": "2724977939de041295a6a0f2ec1084dfb4d2a1a69601bb9fae8b575f38d7f6b1",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        324,
+        359
+      ],
+      "actual_sha256": "2724977939de041295a6a0f2ec1084dfb4d2a1a69601bb9fae8b575f38d7f6b1",
+      "bytes": 110039,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR028",
+      "name": "바리스타",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR028.png",
+      "expected_sha256": "c52d38d97a7a16b742960fb1bf1efc2adea911a1c67c34feb5bb180fb5cdbcee",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        327,
+        354
+      ],
+      "actual_sha256": "c52d38d97a7a16b742960fb1bf1efc2adea911a1c67c34feb5bb180fb5cdbcee",
+      "bytes": 136766,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR024",
+      "name": "마학영",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR024.png",
+      "expected_sha256": "505127c204900ef58b5b7d765bbb99232ca875fb4cb5a7f4d0480cc8e098b70a",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        325,
+        352
+      ],
+      "actual_sha256": "505127c204900ef58b5b7d765bbb99232ca875fb4cb5a7f4d0480cc8e098b70a",
+      "bytes": 115221,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR025",
+      "name": "마준영",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR025.png",
+      "expected_sha256": "833e44f3ee3946137ee18381aa50a34c2489a84465dfdb0e2520434e7a30fb04",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        326,
+        354
+      ],
+      "actual_sha256": "833e44f3ee3946137ee18381aa50a34c2489a84465dfdb0e2520434e7a30fb04",
+      "bytes": 159901,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR030",
+      "name": "유우성",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR030.png",
+      "expected_sha256": "cdb49ba4236af27ad982db7b701ac314fb872e58cc553fc77303920b34ebf9b3",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        322,
+        355
+      ],
+      "actual_sha256": "cdb49ba4236af27ad982db7b701ac314fb872e58cc553fc77303920b34ebf9b3",
+      "bytes": 147799,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR032",
+      "name": "링링",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR032.png",
+      "expected_sha256": "4fcd39d68180e49b5bb3fb6d0518b6b6d61a494aa5f55d64e39d089cfcddf8b9",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        317,
+        352
+      ],
+      "actual_sha256": "4fcd39d68180e49b5bb3fb6d0518b6b6d61a494aa5f55d64e39d089cfcddf8b9",
+      "bytes": 189362,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR029",
+      "name": "오도화",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR029.png",
+      "expected_sha256": "d20f1030e467886cd4d10b6322edd2271e51533d25e247f3010de1ab466554e7",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        328,
+        356
+      ],
+      "actual_sha256": "d20f1030e467886cd4d10b6322edd2271e51533d25e247f3010de1ab466554e7",
+      "bytes": 121502,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR031",
+      "name": "리천",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR031.png",
+      "expected_sha256": "dc2c895b1b45492a8fbfd0cddac26145acf1a4885e7624948f6233129bc64d15",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        485,
+        674
+      ],
+      "actual_sha256": "dc2c895b1b45492a8fbfd0cddac26145acf1a4885e7624948f6233129bc64d15",
+      "bytes": 477550,
+      "byte_match": true,
+      "ok": true
+    },
+    {
+      "id": "KR072",
+      "name": "마티아스",
+      "url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@main/new-korean/portraits/KR072.png",
+      "expected_sha256": "cfad1811d3415bb257ba0fcc134a699d17a923cbc9887b7c878038544d133168",
+      "actual_sha256": "cfad1811d3415bb257ba0fcc134a699d17a923cbc9887b7c878038544d133168",
+      "http_status": 200,
+      "content_type": "image/png",
+      "decoded_size": [
+        690,
+        660
+      ],
+      "bytes": 544649,
+      "byte_match": true,
+      "ok": true
+    }
+  ],
+  "passed": 39,
+  "total": 39,
+  "image_commits": {
+    "jotaro": "3988ff4cd40b2cd11b08fe63f7f8d07e8d075803",
+    "first38": "6693703e8630405050ba5a815173c4d7f9ce2fe4",
+    "matthias": "e712d5330b8f4d25b5510f4463f97b08e99c1bc5"
+  }
+}
