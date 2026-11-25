@@ -1428,7 +1428,7 @@
     "id": "US085",
     "work": "틴 타이탄 2003",
     "name": "오버로드",
-    "candidate_status": "사용자 승인 교체 원본 · CDN 검증 대기",
+    "candidate_status": "사용자 승인 교체 원본 · 파일·CDN 검증 완료",
     "candidate_url": "https://static.tvmaze.com/uploads/images/original_untouched/576/1440870.jpg",
     "source_url": "https://www.tvmaze.com/characters/1408283/teen-titans-overload",
     "note": "전기체 단독 상반신. 중앙 기판핵과 붉은 얼굴 무늬 및 내부 전자 부품 식별 확인, 다른 인물 없음; 원작 고유의 백색·청록색 발광 유지",
@@ -1445,7 +1445,7 @@
     "user_approved": true,
     "android_app_display_verified": false,
     "portrait_review": "새 출처 단독 원본 시각 확인 · 사용자 교체 승인",
-    "cdn_verified": false,
+    "cdn_verified": true,
     "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/replacements/US085.jpg",
     "previous_assets": [
       {
@@ -1733,7 +1733,7 @@
     "id": "US098",
     "work": "틴 타이탄 2003",
     "name": "블랙파이어",
-    "candidate_status": "사용자 승인 교체 원본 · CDN 검증 대기",
+    "candidate_status": "사용자 승인 교체 원본 · 파일·CDN 검증 완료",
     "candidate_url": "https://dcanimated.com/WF/teentitans/bios/blackfire/01.jpg",
     "source_url": "https://dcanimated.com/WF/teentitans/bios/blackfire/",
     "note": "블랙파이어 단독 상반신, 보라색 눈 발광, 식별 확인",
@@ -1742,7 +1742,7 @@
     "user_approved": true,
     "android_app_display_verified": false,
     "portrait_review": "새 출처 단독 원본 시각 확인 · 사용자 교체 승인",
-    "cdn_verified": false,
+    "cdn_verified": true,
     "previous_assets": [
       {
         "id": "US098",
@@ -2258,7 +2258,7 @@
     "id": "US119",
     "work": "영 저스티스",
     "name": "울트라 휴머나이트",
-    "candidate_status": "사용자 승인 교체 원본 · CDN 검증 대기",
+    "candidate_status": "사용자 승인 교체 원본 · 파일·CDN 검증 완료",
     "candidate_url": "https://static.tvmaze.com/uploads/images/original_untouched/180/451551.jpg",
     "source_url": "https://www.tvmaze.com/characters/588303/young-justice-ultra-humanite",
     "note": "영 저스티스의 흰 고릴라형 울트라 휴머나이트 단독. 메타데이터의 original 원본은 250×338; 확대·보간 없음",
@@ -2267,7 +2267,7 @@
     "user_approved": true,
     "android_app_display_verified": false,
     "portrait_review": "새 출처 단독 원본 시각 확인 · 사용자 교체 승인",
-    "cdn_verified": false,
+    "cdn_verified": true,
     "previous_assets": [
       {
         "id": "US119",
@@ -3114,7 +3114,7 @@
     "id": "US152",
     "work": "아바타 아앙의 전설",
     "name": "메이",
-    "candidate_status": "사용자 승인 교체 원본 · CDN 검증 대기",
+    "candidate_status": "사용자 승인 교체 원본 · 파일·CDN 검증 완료",
     "candidate_url": "https://assets.nick.com/uri/mgid:arc:imageassetref:ws.kids.com:6230cfb3-8bca-44e6-b0ce-fe564afc9990?crop=true&format=webp&gen=ntrn&quality=0.7&width=660",
     "source_url": "https://www.nick.com/info-page/esmqi5/mai",
     "note": "메이 단독 상반신, 검붉은 복장, 공식 캐릭터 페이지 이미지; 기존 역할극 사이트 미리보기 대체",
@@ -3130,7 +3130,7 @@
     "user_approved": true,
     "android_app_display_verified": false,
     "portrait_review": "새 출처 단독 원본 시각 확인 · 사용자 교체 승인",
-    "cdn_verified": false,
+    "cdn_verified": true,
     "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/replacements/US152.webp",
     "previous_assets": [
       {

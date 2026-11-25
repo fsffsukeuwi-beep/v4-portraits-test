@@ -856,18 +856,18 @@
   },
   {
     "id": "US085",
-    "name": "오버로드",
     "cdn_verified": true,
-    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/recovered/US085.jpg",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/replacements/US085.jpg",
     "http_status": 200,
-    "sha256": "b1054998e2f9e24873dcb69100257f9e0f1aff705ec842544a339af4c7b3f5e2",
-    "bytes": 7860,
-    "width": 480,
-    "height": 360,
-    "image_commit": "1f3a08614674b8bad26ee9cdfede35fae1834470",
-    "android_app_display_verified": false,
+    "sha256": "3d3697c6a1bd36b58a304377c4d010800658bdf0dcf5645deec87d007d7a2021",
+    "bytes": 126231,
+    "width": 772,
+    "height": 1080,
+    "image_commit": "8cad886e3802ed78a0a89114bebc44514a441bd8",
     "cdn_ref": "us146-cdn",
-    "verified_at_utc": "2026-11-25T14:32:34.569729+00:00"
+    "verified_at_utc": "2026-11-25T14:52:51.521187+00:00",
+    "android_app_display_verified": false,
+    "verification_scope": "new user-authorized replacement original"
   },
   {
     "id": "US087",
@@ -1021,9 +1021,18 @@
   },
   {
     "id": "US098",
-    "name": "블랙파이어",
-    "cdn_verified": false,
-    "status": "approved_binary_missing"
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/replacements/US098.jpg",
+    "http_status": 200,
+    "sha256": "b227fc03de4f4652a998bdb7fe4d9d025c23b69fc3ed72354fccc13051af667b",
+    "bytes": 16709,
+    "width": 480,
+    "height": 359,
+    "image_commit": "8cad886e3802ed78a0a89114bebc44514a441bd8",
+    "cdn_ref": "us146-cdn",
+    "verified_at_utc": "2026-11-25T14:52:51.297879+00:00",
+    "android_app_display_verified": false,
+    "verification_scope": "new user-authorized replacement original"
   },
   {
     "id": "US099",
@@ -1312,9 +1321,18 @@
   },
   {
     "id": "US119",
-    "name": "울트라 휴머나이트",
-    "cdn_verified": false,
-    "status": "approved_binary_missing"
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/replacements/US119.jpg",
+    "http_status": 200,
+    "sha256": "f58cbd2373ecada855910b7c450e56bf5a788357d1c58e79b1bde19c53c30196",
+    "bytes": 22274,
+    "width": 250,
+    "height": 338,
+    "image_commit": "8cad886e3802ed78a0a89114bebc44514a441bd8",
+    "cdn_ref": "us146-cdn",
+    "verified_at_utc": "2026-11-25T14:52:51.295529+00:00",
+    "android_app_display_verified": false,
+    "verification_scope": "new user-authorized replacement original"
   },
   {
     "id": "US120",
@@ -1798,18 +1816,18 @@
   },
   {
     "id": "US152",
-    "name": "메이",
     "cdn_verified": true,
-    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/recovered/US152.webp",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/replacements/US152.webp",
     "http_status": 200,
-    "sha256": "0b1aaa976a4ccb4eb07345751dedf9804a8323794a502ad1c373a5a2858e3212",
-    "bytes": 6040,
-    "width": 250,
-    "height": 250,
-    "image_commit": "1f3a08614674b8bad26ee9cdfede35fae1834470",
-    "android_app_display_verified": false,
+    "sha256": "c142e546c96e301e89c3f1e93ab6b919c7830c54cd7e6ff81e0b7152a38f2c5a",
+    "bytes": 18106,
+    "width": 660,
+    "height": 371,
+    "image_commit": "8cad886e3802ed78a0a89114bebc44514a441bd8",
     "cdn_ref": "us146-cdn",
-    "verified_at_utc": "2026-11-25T14:32:34.569800+00:00"
+    "verified_at_utc": "2026-11-25T14:52:51.585045+00:00",
+    "android_app_display_verified": false,
+    "verification_scope": "new user-authorized replacement original"
   },
   {
     "id": "US153",
