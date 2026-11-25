@@ -1,0 +1,33 @@
+name: Archive approved US146 V4 portraits
+on:
+  push:
+    paths:
+      - '.github/workflows/v4-us146.yml'
+      - 'new-us146/us146_candidates.json'
+      - 'new-us146/import_us146.py'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: v4-us146-import
+  cancel-in-progress: false
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install --disable-pip-version-check pillow
+      - run: python -u new-us146/import_us146.py
+      - name: Save actual decoded originals and individual download evidence
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add new-us146
+          if ! git diff --cached --quiet; then
+            git commit -m "Archive approved US146 original portraits with download evidence"
+            git push
+          fi
