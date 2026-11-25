@@ -20,7 +20,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US001.webp"
   },
   {
     "id": "US002",
@@ -43,7 +45,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US002.webp"
   },
   {
     "id": "US004",
@@ -66,7 +70,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US004.webp"
   },
   {
     "id": "US005",
@@ -89,7 +95,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US005.webp"
   },
   {
     "id": "US007",
@@ -112,7 +120,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "사용 보류: 배경 인물·설정화·중복 그림의 단독 크롭 검수 필요"
+    "portrait_review": "사용 보류: 배경 인물·설정화·중복 그림의 단독 크롭 검수 필요",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US007.webp"
   },
   {
     "id": "US009",
@@ -135,7 +145,9 @@
     "content_type": "image/png",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US009.png"
   },
   {
     "id": "US010",
@@ -158,7 +170,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US010.jpg"
   },
   {
     "id": "US012",
@@ -181,7 +195,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US012.webp"
   },
   {
     "id": "US014",
@@ -204,7 +220,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US014.webp"
   },
   {
     "id": "US015",
@@ -227,7 +245,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "사용 보류: 배경 인물·설정화·중복 그림의 단독 크롭 검수 필요"
+    "portrait_review": "사용 보류: 배경 인물·설정화·중복 그림의 단독 크롭 검수 필요",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US015.webp"
   },
   {
     "id": "US021",
@@ -250,7 +270,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US021.webp"
   },
   {
     "id": "US023",
@@ -273,7 +295,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US023.webp"
   },
   {
     "id": "US024",
@@ -296,7 +320,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US024.webp"
   },
   {
     "id": "US028",
@@ -319,7 +345,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "사용 보류: 배경 인물·설정화·중복 그림의 단독 크롭 검수 필요"
+    "portrait_review": "사용 보류: 배경 인물·설정화·중복 그림의 단독 크롭 검수 필요",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US028.webp"
   },
   {
     "id": "US031",
@@ -342,7 +370,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US031.webp"
   },
   {
     "id": "US032",
@@ -365,7 +395,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US032.webp"
   },
   {
     "id": "US033",
@@ -388,7 +420,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US033.webp"
   },
   {
     "id": "US037",
@@ -411,7 +445,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US037.jpg"
   },
   {
     "id": "US041",
@@ -434,7 +470,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US041.webp"
   },
   {
     "id": "US042",
@@ -457,7 +495,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US042.webp"
   },
   {
     "id": "US044",
@@ -480,7 +520,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US044.webp"
   },
   {
     "id": "US045",
@@ -503,7 +545,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US045.webp"
   },
   {
     "id": "US047",
@@ -526,7 +570,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US047.webp"
   },
   {
     "id": "US048",
@@ -549,7 +595,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US048.webp"
   },
   {
     "id": "US052",
@@ -572,7 +620,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US052.jpg"
   },
   {
     "id": "US053",
@@ -595,7 +645,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US053.webp"
   },
   {
     "id": "US054",
@@ -618,7 +670,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US054.webp"
   },
   {
     "id": "US055",
@@ -641,7 +695,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US055.webp"
   },
   {
     "id": "US056",
@@ -664,7 +720,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US056.jpg"
   },
   {
     "id": "US057",
@@ -687,7 +745,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US057.webp"
   },
   {
     "id": "US058",
@@ -710,7 +770,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US058.jpg"
   },
   {
     "id": "US059",
@@ -733,7 +795,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "사용 보류: 배경 인물·설정화·중복 그림의 단독 크롭 검수 필요"
+    "portrait_review": "사용 보류: 배경 인물·설정화·중복 그림의 단독 크롭 검수 필요",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US059.webp"
   },
   {
     "id": "US060",
@@ -756,7 +820,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US060.webp"
   },
   {
     "id": "US061",
@@ -779,7 +845,9 @@
     "content_type": "image/png",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US061.png"
   },
   {
     "id": "US062",
@@ -802,7 +870,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US062.jpg"
   },
   {
     "id": "US063",
@@ -825,7 +895,9 @@
     "content_type": "image/jpg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US063.png"
   },
   {
     "id": "US064",
@@ -848,7 +920,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US064.webp"
   },
   {
     "id": "US065",
@@ -871,7 +945,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US065.webp"
   },
   {
     "id": "US066",
@@ -894,7 +970,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "사용 보류: 배경 인물·설정화·중복 그림의 단독 크롭 검수 필요"
+    "portrait_review": "사용 보류: 배경 인물·설정화·중복 그림의 단독 크롭 검수 필요",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/recovered/US066.webp"
   },
   {
     "id": "US067",
@@ -917,7 +995,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US067.jpg"
   },
   {
     "id": "US068",
@@ -940,7 +1020,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US068.jpg"
   },
   {
     "id": "US069",
@@ -963,7 +1045,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US069.webp"
   },
   {
     "id": "US070",
@@ -986,7 +1070,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US070.webp"
   },
   {
     "id": "US071",
@@ -1009,7 +1095,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US071.webp"
   },
   {
     "id": "US072",
@@ -1032,7 +1120,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US072.webp"
   },
   {
     "id": "US073",
@@ -1055,7 +1145,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US073.webp"
   },
   {
     "id": "US074",
@@ -1078,7 +1170,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US074.webp"
   },
   {
     "id": "US075",
@@ -1101,7 +1195,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US075.webp"
   },
   {
     "id": "US076",
@@ -1124,7 +1220,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "사용 보류: 배경 인물·설정화·중복 그림의 단독 크롭 검수 필요"
+    "portrait_review": "사용 보류: 배경 인물·설정화·중복 그림의 단독 크롭 검수 필요",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US076.webp"
   },
   {
     "id": "US077",
@@ -1147,7 +1245,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US077.jpg"
   },
   {
     "id": "US078",
@@ -1170,7 +1270,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US078.webp"
   },
   {
     "id": "US079",
@@ -1193,7 +1295,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US079.webp"
   },
   {
     "id": "US080",
@@ -1216,7 +1320,9 @@
     "content_type": "image/png",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US080.png"
   },
   {
     "id": "US081",
@@ -1239,7 +1345,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US081.jpg"
   },
   {
     "id": "US082",
@@ -1262,7 +1370,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US082.webp"
   },
   {
     "id": "US083",
@@ -1285,7 +1395,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US083.webp"
   },
   {
     "id": "US084",
@@ -1308,7 +1420,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US084.jpg"
   },
   {
     "id": "US085",
@@ -1331,7 +1445,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "사용 보류: 섬광으로 인물 식별 곤란"
+    "portrait_review": "사용 보류: 섬광으로 인물 식별 곤란",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/recovered/US085.jpg"
   },
   {
     "id": "US087",
@@ -1354,7 +1470,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US087.webp"
   },
   {
     "id": "US088",
@@ -1377,7 +1495,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/recovered/US088.webp"
   },
   {
     "id": "US089",
@@ -1400,7 +1520,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US089.webp"
   },
   {
     "id": "US090",
@@ -1423,7 +1545,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US090.webp"
   },
   {
     "id": "US091",
@@ -1446,7 +1570,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US091.webp"
   },
   {
     "id": "US092",
@@ -1469,7 +1595,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US092.webp"
   },
   {
     "id": "US093",
@@ -1492,7 +1620,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US093.jpg"
   },
   {
     "id": "US095",
@@ -1515,7 +1645,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "사용 보류: 배경 인물·설정화·중복 그림의 단독 크롭 검수 필요"
+    "portrait_review": "사용 보류: 배경 인물·설정화·중복 그림의 단독 크롭 검수 필요",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US095.webp"
   },
   {
     "id": "US096",
@@ -1538,7 +1670,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US096.webp"
   },
   {
     "id": "US097",
@@ -1561,7 +1695,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US097.webp"
   },
   {
     "id": "US098",
@@ -1580,7 +1716,8 @@
     "path": null,
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": false
   },
   {
     "id": "US099",
@@ -1603,7 +1740,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US099.jpg"
   },
   {
     "id": "US100",
@@ -1626,7 +1765,9 @@
     "content_type": "image/png",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US100.png"
   },
   {
     "id": "US101",
@@ -1649,7 +1790,9 @@
     "content_type": "image/png",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US101.png"
   },
   {
     "id": "US102",
@@ -1672,7 +1815,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "사용 보류: 배경 인물·설정화·중복 그림의 단독 크롭 검수 필요"
+    "portrait_review": "사용 보류: 배경 인물·설정화·중복 그림의 단독 크롭 검수 필요",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US102.webp"
   },
   {
     "id": "US103",
@@ -1695,7 +1840,9 @@
     "content_type": "image/png",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "사용 보류: 배경 인물·설정화·중복 그림의 단독 크롭 검수 필요"
+    "portrait_review": "사용 보류: 배경 인물·설정화·중복 그림의 단독 크롭 검수 필요",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US103.png"
   },
   {
     "id": "US104",
@@ -1718,7 +1865,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US104.jpg"
   },
   {
     "id": "US106",
@@ -1741,7 +1890,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US106.webp"
   },
   {
     "id": "US107",
@@ -1764,7 +1915,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US107.webp"
   },
   {
     "id": "US108",
@@ -1787,7 +1940,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US108.webp"
   },
   {
     "id": "US109",
@@ -1810,7 +1965,9 @@
     "content_type": "image/png",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US109.png"
   },
   {
     "id": "US110",
@@ -1833,7 +1990,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US110.jpg"
   },
   {
     "id": "US111",
@@ -1856,7 +2015,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US111.jpg"
   },
   {
     "id": "US112",
@@ -1879,7 +2040,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US112.webp"
   },
   {
     "id": "US113",
@@ -1902,7 +2065,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US113.jpg"
   },
   {
     "id": "US114",
@@ -1925,7 +2090,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US114.webp"
   },
   {
     "id": "US115",
@@ -1948,7 +2115,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US115.webp"
   },
   {
     "id": "US116",
@@ -1971,7 +2140,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US116.webp"
   },
   {
     "id": "US117",
@@ -1994,7 +2165,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US117.webp"
   },
   {
     "id": "US118",
@@ -2017,7 +2190,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US118.jpg"
   },
   {
     "id": "US119",
@@ -2036,7 +2211,8 @@
     "path": null,
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": false
   },
   {
     "id": "US120",
@@ -2059,7 +2235,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US120.webp"
   },
   {
     "id": "US121",
@@ -2082,7 +2260,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US121.jpg"
   },
   {
     "id": "US122",
@@ -2105,7 +2285,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US122.webp"
   },
   {
     "id": "US123",
@@ -2128,7 +2310,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US123.jpg"
   },
   {
     "id": "US124",
@@ -2151,7 +2335,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US124.jpg"
   },
   {
     "id": "US125",
@@ -2174,7 +2360,9 @@
     "content_type": "image/png",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US125.png"
   },
   {
     "id": "US126",
@@ -2197,7 +2385,9 @@
     "content_type": "image/avif",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US126.avif"
   },
   {
     "id": "US127",
@@ -2220,7 +2410,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US127.webp"
   },
   {
     "id": "US128",
@@ -2243,7 +2435,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US128.webp"
   },
   {
     "id": "US129",
@@ -2266,7 +2460,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "사용 보류: 배경 인물·설정화·중복 그림의 단독 크롭 검수 필요"
+    "portrait_review": "사용 보류: 배경 인물·설정화·중복 그림의 단독 크롭 검수 필요",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US129.jpg"
   },
   {
     "id": "US130",
@@ -2289,7 +2485,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US130.jpg"
   },
   {
     "id": "US131",
@@ -2312,7 +2510,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US131.jpg"
   },
   {
     "id": "US132",
@@ -2335,7 +2535,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US132.jpg"
   },
   {
     "id": "US133",
@@ -2358,7 +2560,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US133.jpg"
   },
   {
     "id": "US134",
@@ -2381,7 +2585,9 @@
     "content_type": "image/png",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US134.png"
   },
   {
     "id": "US135",
@@ -2404,7 +2610,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US135.jpg"
   },
   {
     "id": "US136",
@@ -2430,7 +2638,9 @@
     "http_status": 200,
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/recovered/US136.webp"
   },
   {
     "id": "US137",
@@ -2453,7 +2663,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US137.jpg"
   },
   {
     "id": "US138",
@@ -2476,7 +2688,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US138.jpg"
   },
   {
     "id": "US139",
@@ -2499,7 +2713,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US139.jpg"
   },
   {
     "id": "US140",
@@ -2522,7 +2738,9 @@
     "content_type": "image/png",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US140.png"
   },
   {
     "id": "US141",
@@ -2545,7 +2763,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US141.jpg"
   },
   {
     "id": "US142",
@@ -2568,7 +2788,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US142.jpg"
   },
   {
     "id": "US143",
@@ -2594,7 +2816,9 @@
     "http_status": 200,
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/recovered/US143.jpg"
   },
   {
     "id": "US144",
@@ -2617,7 +2841,9 @@
     "content_type": "image/png",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US144.png"
   },
   {
     "id": "US145",
@@ -2640,7 +2866,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US145.webp"
   },
   {
     "id": "US146",
@@ -2663,7 +2891,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US146.jpg"
   },
   {
     "id": "US147",
@@ -2686,7 +2916,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US147.webp"
   },
   {
     "id": "US148",
@@ -2709,7 +2941,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US148.jpg"
   },
   {
     "id": "US149",
@@ -2732,7 +2966,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US149.jpg"
   },
   {
     "id": "US150",
@@ -2755,7 +2991,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US150.webp"
   },
   {
     "id": "US151",
@@ -2778,7 +3016,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US151.jpg"
   },
   {
     "id": "US152",
@@ -2804,7 +3044,9 @@
     "http_status": 200,
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "사용 보류: 동일 파일의 250px 미리보기만 복구, 원본 미확보"
+    "portrait_review": "사용 보류: 동일 파일의 250px 미리보기만 복구, 원본 미확보",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/recovered/US152.webp"
   },
   {
     "id": "US153",
@@ -2830,7 +3072,9 @@
     "http_status": 200,
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/recovered/US153.png"
   },
   {
     "id": "US154",
@@ -2853,7 +3097,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US154.jpg"
   },
   {
     "id": "US155",
@@ -2876,7 +3122,9 @@
     "content_type": "image/avif",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US155.avif"
   },
   {
     "id": "US156",
@@ -2902,7 +3150,9 @@
     "http_status": 200,
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/recovered/US156.jpg"
   },
   {
     "id": "US157",
@@ -2925,7 +3175,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US157.jpg"
   },
   {
     "id": "US158",
@@ -2948,7 +3200,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US158.jpg"
   },
   {
     "id": "US159",
@@ -2971,7 +3225,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US159.jpg"
   },
   {
     "id": "US160",
@@ -2994,7 +3250,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US160.webp"
   },
   {
     "id": "US161",
@@ -3017,7 +3275,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US161.jpg"
   },
   {
     "id": "US162",
@@ -3040,7 +3300,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US162.jpg"
   },
   {
     "id": "US163",
@@ -3063,7 +3325,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US163.jpg"
   },
   {
     "id": "US164",
@@ -3086,7 +3350,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US164.webp"
   },
   {
     "id": "US165",
@@ -3109,7 +3375,9 @@
     "content_type": "image/png",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US165.png"
   },
   {
     "id": "US166",
@@ -3132,7 +3400,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US166.jpg"
   },
   {
     "id": "US167",
@@ -3155,7 +3425,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US167.jpg"
   },
   {
     "id": "US170",
@@ -3178,7 +3450,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/recovered/US170.webp"
   },
   {
     "id": "US171",
@@ -3201,7 +3475,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US171.jpg"
   },
   {
     "id": "US172",
@@ -3224,7 +3500,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "사용 보류: 배경 인물·설정화·중복 그림의 단독 크롭 검수 필요"
+    "portrait_review": "사용 보류: 배경 인물·설정화·중복 그림의 단독 크롭 검수 필요",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US172.jpg"
   },
   {
     "id": "US173",
@@ -3247,7 +3525,9 @@
     "content_type": "image/gif",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US173.gif"
   },
   {
     "id": "US174",
@@ -3270,7 +3550,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US174.webp"
   },
   {
     "id": "US175",
@@ -3293,7 +3575,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US175.jpg"
   },
   {
     "id": "US176",
@@ -3316,7 +3600,9 @@
     "content_type": "image/jpeg",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US176.jpg"
   },
   {
     "id": "US177",
@@ -3339,7 +3625,9 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US177.webp"
   },
   {
     "id": "US178",
@@ -3362,6 +3650,8 @@
     "content_type": "image/webp",
     "user_approved": true,
     "android_app_display_verified": false,
-    "portrait_review": "단독·판본 최종 검수 미완"
+    "portrait_review": "단독·판본 최종 검수 미완",
+    "cdn_verified": true,
+    "cdn_url": "https://cdn.jsdelivr.net/gh/fsffsukeuwi-beep/v4-portraits-test@us146-cdn/new-us146/assets/US178.webp"
   }
 ]
