@@ -1,11 +1,12 @@
 # V4 US146 approved portrait archive
 
-The 146 identities and candidate sources are copied from the current README_V4 approval register. Approval does not establish a production-original source or complete portrait/card compliance.
+Current register: portrait_registry.json. Current CDN evidence: cdn_validation.json.
+All 146 selected identities have stored image files and verified CDN URLs. The four newly authorized originals are US085 Overload, US098 Blackfire, US119 Ultra-Humanite and US152 Mai. approved_four_validation.json records their fresh CDN HTTP 200, dimensions, and SHA-256 equality. The other 142 selected images are unchanged and retain their previous verification records.
 
-Current authoritative register: portrait_registry.json. It supersedes the initial automated us146-download-report.json for availability and recovered assets.
+The four new source originals were visually checked as the intended animated characters, with one principal character per image. Mai uses a Nickelodeon publisher image. The others are animation screenshots reposted by the identified source. Ultra-Humanite's provider explicitly serves a 250x338 original; it has not been enlarged. Overload now uses a 772x1080 original with a visible circuit core and face pattern, replacing the flash-obscured image.
 
-144 identities have decoded image files in this repository. US098 Blackfire and US119 Ultra-Humanite have no recovered approved binary. US152 Mai is an explicitly flagged 250px preview of the same source file, rather than an original-resolution recovery. US085 Overload remains visually unsuitable because the frame is obscured by a flash. Multi-person images and model sheets remain flagged for portrait review; no unapproved substitute image has been silently installed.
+The user explicitly authorized selecting and replacing these four portraits from new sources. Previously approved candidate paths and stored binaries remain preserved in previous_assets and the repository's existing paths. Do not use the initial us146-download-report.json as current availability: it is historical import evidence.
 
-The existing assets, original candidate URL, publisher/source page, recovered URL, dimensions and SHA-256 are retained per identity. The recovered folder holds same-file host repairs, larger versions of approved thumbnails and images downloaded successfully from the local environment. Existing directories and unrelated characters are unchanged. Source thumbnail versions are retained in assets where they had already been archived.
+Use the compact us146-cdn branch for jsDelivr URLs. The larger main branch previously exceeded the CDN's 50 MB package limit. Per-identity exact CDN URLs are in the current register and CSV.
 
-CDN verification is a separate operation recorded in cdn_validation.json after downloading the stored bytes through a commit-pinned jsDelivr URL. Android-app display and final character/portrait eligibility are not certified by HTTP or image decoding success. World canon, stats, combat results and story participation are not modified by this archive.
+Existing portrait eligibility/cropping review for 11 other identities remains open and outside this four-image replacement authorization. HTTP/image/hash validation does not certify Android-app display or all character/profile/novel requirements. Canonical stats, participants, story events and unrelated images are preserved.
